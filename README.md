@@ -17,7 +17,7 @@
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
 
 
-
+---
 ## Glosario
 -	Summoner: Nombre que reciben los jugadores de LoL en el contexto del videojuego.
 -	Champion (campeón): Personajes que son invocados al mapa del juego por cada uno de los jugadores. (LoL cuenta con 159 campeones diferentes en la versión actual)
@@ -33,7 +33,7 @@
 - Coodown: Es la cantidad de tiempo antes de que una habilidad de campeón pueda usarse nuevamente después de la activación.
 - Range: Es el alcance (medido en "puntos") que tiene una determinada habilidad.
 
-
+---
 ## Descripción y contexto
 ---
 League of Legends, también conocido como LoL, es un juego de estrategia en el que dos equipos de cinco jugadores se enfrentan para ver quién destruye antes la base del otro. Mundialmente conocido como el e-sport más importante.
@@ -48,6 +48,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 
  #### **¿Cuáles son los campeones que se han mantenido constantes en el escenario competitivo a pesar del estado del metagame?** 
  
+ ---
  ## Reglas de negocio
 1.	El juego tiene varios campeones.
 2.	Cada campeón tiene un ID y un nombre único.
@@ -60,6 +61,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 9.	Una habilidad tiene un único ID, un nombre, una key, un rango base y un cooldown base.
 10.	En un Worlds participan varios campeones en distintos roles.
 
+---
 ## Tabla ER
 
 | Entidad       | Atributos     | Relaciones          |
