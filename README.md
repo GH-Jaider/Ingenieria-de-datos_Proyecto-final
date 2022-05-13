@@ -58,4 +58,4 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 
 | Entidad       | Atributos     | Relaciones          |
 | ------------- | ------------- | -------------       |
-| Champion	     | Champ_ID\n Name\n	Class\n Play_style\n Title\n||         
+| Champion	     | Champ_ID,	Name,	Class, Play_style, Title||         
