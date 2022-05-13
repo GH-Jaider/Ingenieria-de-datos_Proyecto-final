@@ -38,13 +38,12 @@
 ---
 League of Legends, también conocido como LoL, es un juego de estrategia en el que dos equipos de cinco jugadores se enfrentan para ver quién destruye antes la base del otro. Mundialmente conocido como el e-sport más importante.
 
-Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los campeones de LoL[^1][^2] , sus habilidades[^3] y las estadísticas de estos[^4] presentadas en la copa mundial del e-sport, llamada Worlds. Basándonos en la recopilación y selección de ciertas columnas específicas de estos sets de datos, hemos identificado el siguiente problema a trabajar:
+Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los campeones de LoL[^1] , sus habilidades[^2] y las estadísticas de estos[^3] presentadas en la copa mundial del e-sport, llamada Worlds. Basándonos en la recopilación y selección de ciertas columnas específicas de estos sets de datos, hemos identificado el siguiente problema a trabajar:
 
 
-[^1]: League of Legends Stats: https://www.kaggle.com/datasets/vivovinco/league-of-legends-champion-stats?select=League+of+Legends+Champion+Stats+12.6.csv
-[^2]: League of Legends - Champions & Items' Stats: https://www.kaggle.com/datasets/barthetur/league-of-legends-champions-items-stats 
-[^3]: League of Legends Champions Abilities 10.15: https://www.kaggle.com/datasets/fernandorubiogarcia/league-of-legends-champions-abilities-1015
-[^4]: LoL Worlds Champion Pick and Ban Rate: https://www.kaggle.com/datasets/vincentbarletta/league-of-legends-worlds-champion-pb-dataset?select=Worlds+2021+Main+Event+-+Champion+Stats+-+OraclesElixir.csv
+[^1]: League of Legends - Champions & Items' Stats: https://www.kaggle.com/datasets/barthetur/league-of-legends-champions-items-stats 
+[^2]: League of Legends Champions Abilities 10.15: https://www.kaggle.com/datasets/fernandorubiogarcia/league-of-legends-champions-abilities-1015
+[^3]: LoL Worlds Champion Pick and Ban Rate: https://www.kaggle.com/datasets/vincentbarletta/league-of-legends-worlds-champion-pb-dataset?select=Worlds+2021+Main+Event+-+Champion+Stats+-+OraclesElixir.csv
 
 
  #### **¿Cuáles son los campeones que se han mantenido constantes en el escenario competitivo a pesar del estado del metagame?** 
