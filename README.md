@@ -35,7 +35,7 @@
 
 ---
 ## Descripción y contexto
----
+
 League of Legends, también conocido como LoL, es un juego de estrategia en el que dos equipos de cinco jugadores se enfrentan para ver quién destruye antes la base del otro. Mundialmente conocido como el e-sport más importante.
 
 Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los campeones de LoL[^1] , sus habilidades[^2] y las estadísticas de estos[^3] presentadas en la copa mundial del e-sport, llamada Worlds. Basándonos en la recopilación y selección de ciertas columnas específicas de estos sets de datos, hemos identificado el siguiente problema a trabajar:
@@ -70,7 +70,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 | Worlds        | Year, Role, Pick_rate, Ban_rate, Win_rate, Kills, Deaths | Champion (M): Play|
 | Abilities     | Ability_ID,	Name,	Key, Base_cooldown, Base_Range| Champion (1): Have|
 
-
+---
 ## Diagrama Entidad-Relacion
 
 <img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Diagrama%20entidad-relacion.png"/></p> 
