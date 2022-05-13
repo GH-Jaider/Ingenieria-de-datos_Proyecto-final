@@ -5,7 +5,7 @@
 ## Tabla de contenidos:
 ---
 
-- [Badges o escudos](#badges-o-escudos)
+- [Glosario](#glosario)
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de usuario](#guía-de-usuario)
 - [Guía de instalación](#guía-de-instalación)
