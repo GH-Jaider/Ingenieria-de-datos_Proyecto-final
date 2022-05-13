@@ -41,7 +41,7 @@ League of Legends, también conocido como LoL, es un juego de estrategia en el q
 Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los campeones de LoL<sup>1, 2 </sup>, sus habilidades<sup> 3</sup> y las estadísticas de estos<sup> 4</sup> presentadas en la copa mundial del e-sport, llamada Worlds. Basándonos en la recopilación y selección de ciertas columnas específicas de estos sets de datos, hemos identificado el siguiente problema a trabajar:
 
 
-[^1] League of Legends Stats
+[^1]: League of Legends Stats
 2 League of Legends - Champions & Items' Stats 3 League of Legends Champions Abilities 10.15 4 LoL Worlds Champion Pick and Ban Rate
 
 
