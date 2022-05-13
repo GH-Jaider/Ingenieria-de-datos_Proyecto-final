@@ -44,7 +44,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 [^1]: League of Legends Stats
 [^2]: League of Legends - Champions & Items' Stats 
 [^3]: League of Legends Champions Abilities 10.15 
-[^4]: LoL Worlds Champion Pick and Ban Rate
+[^4]: LoL Worlds Champion Pick and Ban Rate https://www.kaggle.com/datasets/vincentbarletta/league-of-legends-worlds-champion-pb-dataset?select=Worlds+2021+Main+Event+-+Champion+Stats+-+OraclesElixir.csv
 
 
  #### **¿Cuáles son los campeones que se han mantenido constantes en el escenario competitivo a pesar del estado del metagame?** 
