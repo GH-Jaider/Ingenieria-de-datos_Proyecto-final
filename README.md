@@ -43,14 +43,14 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
  #### **¿Cuáles son los campeones que se han mantenido constantes en el escenario competitivo a pesar del estado del metagame?** 
  
  ## Reglas de negocio
--1.	El juego tiene varios campeones.
--2.	Cada campeón tiene un ID y un nombre único.
--3.	Cada campeón posee un nombre, ID, clase, playstyle y un título dentro del juego.
--4.	Los campeones tienen roles.
--5.	El juego registra el PR%, BR%, WR%, KD de los campeones con base en el rol y en un año durante el Worlds.
--6.	Un campeón puede jugarse en varios roles.
--7.	Un campeón puede tener varias habilidades.
--8.	Una habilidad solo puede ser usada por un campeón
--9.	Una habilidad tiene un único ID, un nombre, una key, un rango base y un cooldown base.
--10.	En un Worlds participan varios campeones en distintos roles.
+- 1.	El juego tiene varios campeones.
+- 2.	Cada campeón tiene un ID y un nombre único.
+- 3.	Cada campeón posee un nombre, ID, clase, playstyle y un título dentro del juego.
+- 4.	Los campeones tienen roles.
+- 5.	El juego registra el PR%, BR%, WR%, KD de los campeones con base en el rol y en un año durante el Worlds.
+- 6.	Un campeón puede jugarse en varios roles.
+- 7.	Un campeón puede tener varias habilidades.
+- 8.	Una habilidad solo puede ser usada por un campeón
+- 9.	Una habilidad tiene un único ID, un nombre, una key, un rango base y un cooldown base.
+- 10.	En un Worlds participan varios campeones en distintos roles.
 
