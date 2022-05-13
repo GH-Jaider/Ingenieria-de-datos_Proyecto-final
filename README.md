@@ -29,6 +29,10 @@
 -	Play-style: Hace referencia a la manera en que se juega a cada campeón durante las partidas.
 -	Role: El LoL cuenta con 5 roles diferente, que corresponden a las posiciones del mapa en que se juega a cada campeón.
 -	Class: Categorías que permiten agrupar a los campeones de acuerdo con su play- style. El role en que va cada campeón suele estar influenciado directamente por su class.
+-	KD: Hace referencia a las Kills (asesinatos) y Deads (muertes) que tiene un campeón en un determinado número de partidas.
+- Coodown: Es la cantidad de tiempo antes de que una habilidad de campeón pueda usarse nuevamente después de la activación.
+- Range: Es el alcance (medido en "puntos") que tiene una determinada habilidad.
+
 
 ## Descripción y contexto
 ---
