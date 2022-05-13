@@ -11,11 +11,10 @@
 - [Tabla ER](#tabla-er)
 - [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
 - [Diagrama Relacional](#diagrama-relacional)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
+- [Conexión con Python](#conexion-con-python)
 - [Licencia](#licencia)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
-
+- [Autor/es](#autores)
 
 ---
 ## Glosario
@@ -80,3 +79,6 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Diagrama%20relacional.png"/></p> 
 
+
+--
+## Conexion con Python
