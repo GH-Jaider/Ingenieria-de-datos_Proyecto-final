@@ -54,3 +54,12 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 9.	Una habilidad tiene un único ID, un nombre, una key, un rango base y un cooldown base.
 10.	En un Worlds participan varios campeones en distintos roles.
 
+## Tabla ER
+
+| Entidad       | Atributos     | Relaciones          |
+| ------------- | ------------- | -------------       |
+| Champion	     | Champ_ID	     | Worlds (M): Play    | 
+|               | Name 	        | Abilities (M): Have |
+|               | Class         |                     | 
+|               | Play_style    |                     | 
+|               | Title	        |                     |   
