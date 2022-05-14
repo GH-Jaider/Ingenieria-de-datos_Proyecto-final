@@ -86,6 +86,24 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 ## Importación de datos
 ---
 ## Conexion con Python
+
+El programa conexion_python.py 
+~~~
+INGRESE EL NOMBRE DE LA TABLA QUE DESEA BUSCAR
+*ingrese exit para salir
+champion
+INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR
+Columnas de champion: ('name', 'class', 'play_style', 'title')
+*ingrese back para volver
+name
+****NAME****
+Aatrox;
+Ahri;
+Akali;
+Akshan;
+Alistar;
+Amumu;
+~~~
 ---
 ## Autores
 
