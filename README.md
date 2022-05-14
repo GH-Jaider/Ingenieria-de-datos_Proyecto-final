@@ -16,7 +16,7 @@
 - [Conexión con Python](#conexion-con-python)
 - [Licencia](#licencia)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
-- [Autor/es](#autores)
+- [Autores](#autores)
 
 ---
 ## Glosario
