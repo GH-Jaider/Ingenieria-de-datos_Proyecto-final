@@ -14,8 +14,6 @@
 - [Base de datos](#base-de-datos)
 - [Importación de datos](#importacion-de-datos)
 - [Conexión con Python](#conexion-con-python)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
 - [Autores](#autores)
 
 ---
