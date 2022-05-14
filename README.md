@@ -72,7 +72,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 ---
 ## Diagrama Entidad-Relacion
 
-<img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Diagrama%20entidad-relacion.png"/></p> 
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Diagrama%20entidad-relacion.png"/></p> 
 
 ---
 ## Diagrama Relacional
