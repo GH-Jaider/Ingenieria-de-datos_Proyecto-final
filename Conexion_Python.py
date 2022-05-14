@@ -6,12 +6,6 @@ database_in  = input("Ingrese el nombre de la base de datos: ")
 host_in  = input("Ingrese el host: ")
 port_in  = input("Ingrese el puerto: ")
 
-tables ={"champion":("name", "class", "play_style", "title"),
-        "worlds": ("year", "role"),
-        "ability": ("ability_id", "name", "key", "base_cooldown", "base_range", "name_champion"),
-        "play": ("pick_rate", "ban_rate", "win_rate", "kills", "deaths", "year_worlds", "role_worlds", "name_champion")
-        }
-
 try:
     conexion = psycopg2.connect(user=user_in,
                                 password=password_in,
@@ -23,7 +17,7 @@ try:
 
     table = input("INGRESE EL NOMBRE DE LA TABLA QUE DESEA BUSCAR\n*ingrese exit para salir\n")
     while table!="exit":
-        column = input(f"INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR\nColumnas de {table}: {tables[table]}\n*ingrese back para volver\n")
+        column = input(f"INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR\n*ingrese back para volver\n*")
         
         while column != "back":
             
@@ -42,7 +36,7 @@ try:
                 print("")
                 country = cursor.fetchone()
                 
-            column = input(f"INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR\nColumnas de {table}: {tables[table]}\n*ingrese back para volver\n")
+            column = input(f"INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR\n*ingrese back para volver\n*")
     
         table = input("INGRESE EL NOMBRE DE LA TABLA QUE DESEA BUSCAR\n*ingrese exit para salir\n")
     
