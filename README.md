@@ -56,7 +56,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 5.	El juego registra el PR%, BR%, WR%, KD de los campeones con base en el rol y en un año durante el Worlds.
 6.	Un campeón puede jugarse en varios roles.
 7.	Un campeón puede tener varias habilidades.
-8.	Una habilidad solo puede ser usada por un campeón
+8.	Una habilidad solo puede ser usada por un campeón.
 9.	Una habilidad tiene un único ID, un nombre, una key, un rango base y un cooldown base.
 10.	En un Worlds participan varios campeones en distintos roles.
 
