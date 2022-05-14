@@ -1,0 +1,819 @@
+Champion;Ability;Key;Range;Cooldown
+Aatrox;Deathbringer stance;P;;
+Aatrox;Infernal chains;W;825;26
+Aatrox;The darkin blade;Q;650;14
+Aatrox;Umbral dash;E;300;9
+Aatrox;World ender;R;;120
+Ahri;Charm;E;975;12
+Ahri;Fox-fire;W;700;9
+Ahri;Orb of deception;Q;880;7
+Ahri;Spirit rush;R;450;130
+Ahri;Vastayan grace;P;;9
+Akali;Assassin's mark;P;;
+Akali;Five point strike;Q;500;1.5
+Akali;Perfect execution;R;600;100
+Akali;Shuriken flip;E;650;16
+Akali;Twilight shroud;W;250;20
+Alistar;Headbutt;W;650;14
+Alistar;Pulverize;Q;365;17
+Alistar;Trample;E;275;12
+Alistar;Triumphant roar;P;;
+Alistar;Unbreakable will;R;;120
+Amumu;Bandage toss;Q;1100;10
+Amumu;Curse of the sad mummy;R;550;150
+Amumu;Cursed touch;P;;
+Amumu;Despair;W;400;1
+Amumu;Tantrum;E;200;10
+Anivia;Crystallize;W;1000;17
+Anivia;Flash frost;Q;1100;10
+Anivia;Frostbite;E;600;4
+Anivia;Glacial storm;R;750;6
+Anivia;Rebirth;P;;240
+Annie;Disintegrate;Q;625;4
+Annie;Incinerate;W;625;8
+Annie;Molten shield;E;;14
+Annie;Pyromania;P;;
+Annie;Summon: tibbers;R;600;120
+Aphelios;Binding eclipse;Q;;12
+Aphelios;Calibrum, the sniper rifle;P;;
+Aphelios;Crescendum, the chakram;P;;
+Aphelios;Duskwave;Q;;9
+Aphelios;Gravitum, the gravity cannon;P;;
+Aphelios;Infernum, the flamethrower;P;;
+Aphelios;Moonlight vigil;R;130;120
+Aphelios;Moonlight vigil, calibrum;R;;120
+Aphelios;Moonlight vigil, crescendum;R;;120
+Aphelios;Moonlight vigil, gravitum;R;;120
+Aphelios;Moonlight vigil, infernum;R;;120
+Aphelios;Moonlight vigil, severum;R;;120
+Aphelios;Moonshot;Q;;10
+Aphelios;Onslaught;Q;;10
+Aphelios;Phase;W;;0.8
+Aphelios;Sentry;Q;;9
+Aphelios;Severum, the scythe pistol;P;;
+Aphelios;The hitman and the seer;P;;
+Ashe;Enchanted crystal arrow;R;;100
+Ashe;Frost shot;P;;
+Ashe;Hawkshot;E;;5
+Ashe;Ranger's focus;Q;;
+Ashe;Volley;W;1200;14
+Aurelion sol;Celestial expansion;W;;8
+Aurelion sol;Center of the universe;P;;
+Aurelion sol;Comet of legend;E;5500;80
+Aurelion sol;Starsurge;Q;;11
+Aurelion sol;Voice of light;R;;110
+Azir;Arise!;W;500;1.5
+Azir;Conquering sands;Q;720;15
+Azir;Emperor's divide;R;250;120
+Azir;Shifting sands;E;;19
+Azir;Shurima's legacy;P;;180
+Bard;Caretaker's shrine;W;800;14
+Bard;Cosmic binding;Q;;11
+Bard;Magical journey;E;900;22
+Bard;Tempered fate;R;3400;110
+Bard;Traveler's call;P;;
+Blitzcrank;Mana barrier;P;;90
+Blitzcrank;Overdrive;W;;15
+Blitzcrank;Power fist;E;;9
+Blitzcrank;Rocket grab;Q;1150;20
+Blitzcrank;Static field;R;600;60
+Brand;Blaze;P;;
+Brand;Conflagration;E;625;10
+Brand;Pillar of flame;W;900;10
+Brand;Pyroclasm;R;750;105
+Brand;Sear;Q;1050;8
+Braum;Concussive blows;P;;
+Braum;Glacial fissure;R;1250;140
+Braum;Stand behind me;W;650;12
+Braum;Unbreakable;E;;18
+Braum;Winter's bite;Q;;10
+Caitlyn;90 caliber net;E;1000;16
+Caitlyn;Ace in the hole;R;3500;90
+Caitlyn;Headshot;P;;
+Caitlyn;Piltover peacemaker;Q;1300;10
+Caitlyn;Yordle snap trap;W;800;
+Camille;Adaptive defenses;P;;16
+Camille;Hextech ultimatum;R;;140
+Camille;Hookshot;E;800;16
+Camille;Wall Dive;E;800;16
+Camille;Precision protocol;Q;;9
+Camille;Tactical sweep;W;;15
+Camille;Wall dive;E;400;16
+Cassiopeia;Miasma;W;700;24
+Cassiopeia;Noxious blast;Q;850;3.5
+Cassiopeia;Petrifying gaze;R;825;120
+Cassiopeia;Serpentine grace;P;;
+Cassiopeia;Twin fang;E;700;0.75
+Cho'gath;Carnivore;P;;
+Cho'gath;Feast;R;175;80
+Cho'gath;Feral scream;W;650;13
+Cho'gath;Rupture;Q;950;7
+Cho'gath;Vorpal spikes;E;500;8
+Corki;Gatling gun;E;600;16
+Corki;Hextech munitions;P;;
+Corki;Missile barrage;R;1200;2
+Corki;Phosphorus bomb;Q;825;8
+Corki;Valkyrie;W;600;20
+Darius;Apprehend;E;550;24
+Darius;Crippling strike;W;145;7
+Darius;Decimate;Q;425;9
+Darius;Hemorrhage;P;;
+Darius;Noxian guillotine;R;460;120
+Darius;Noxian might;P;;
+Diana;Crescent strike;Q;900;8
+Diana;Lunar rush;E;825;22
+Diana;Moonfall;R;350;100
+Diana;Moonsilver blade;P;;
+Diana;Pale cascade;W;200;15
+Dr. Mundo;Adrenaline rush;P;;
+Dr. Mundo;Burning agony;W;175;4
+Dr. Mundo;Infected cleaver;Q;1000;4
+Dr. Mundo;Masochism;E;;6
+Dr. Mundo;Sadism;R;;110
+Draven;Blood rush;W;;12
+Draven;League of draven;P;;
+Draven;Spinning axe;Q;550;12
+Draven;Stand aside;E;1050;18
+Draven;Whirling death;R;20000;120
+Ekko;Chronobreak;R;;110
+Ekko;Parallel convergence;W;1600;22
+Ekko;Phase dive;E;325;9
+Ekko;Timewinder;Q;1075;9
+Ekko;Z-drive resonance;P;;5
+Elise;Cocoon;E;;12
+Elise;Rappel;E;975;12
+Elise;Human form;R;;4
+Elise;Neurotoxin;Q;650;6
+Elise;Venomous bite;Q;650;6
+Elise;Rappel;E;1075;22
+Elise;Skittering frenzy;W;;10
+Elise;Spider form;R;;4
+Elise;Human form;R;;4
+Elise;Spider queen;P;;
+Elise;Venomous bite;Q;475;6
+Elise;Volatile spiderling;W;950;12
+Elise;Skittering frenzy;W;950;12
+Evelynn;Allure;W;1000;14
+Evelynn;Demon shade;P;;
+Evelynn;Empowered whiplash;E;210;
+Evelynn;Hate spike;Q;800;8
+Evelynn;Last caress;R;450;140
+Evelynn;Whiplash;E;225;8
+Ezreal;Arcane shift;E;475;25
+Ezreal;Essence flux;W;1150;12
+Ezreal;Mystic shot;Q;1100;5.5
+Ezreal;Rising spell force;P;;
+Ezreal;Trueshot barrage;R;20000;120
+Fiddlesticks;A harmless scarecrow;P;900;
+Fiddlesticks;Bountiful harvest;W;575;9
+Fiddlesticks;Crowstorm;R;800;140
+Fiddlesticks;Reap;E;850;10
+Fiddlesticks;Terrify;Q;575;15
+Fiora;Bladework;E;;11
+Fiora;Duelist's dance;P;;
+Fiora;Grand challenge;R;500;110
+Fiora;Lunge;Q;400;16
+Fiora;Riposte;W;750;24
+Fizz;Chum the waters;R;1300;100
+Fizz;Nimble fighter;P;;
+Fizz;Playful;E;400;16
+Fizz;Seastone trident;W;;7
+Fizz;Urchin strike;Q;550;8
+Galio;Colossal smash;P;;5
+Galio;Hero's entrance;R;4000;200
+Galio;Justice punch;E;650;12
+Galio;Shield of durand;W;;16
+Galio;Winds of war;Q;825;12
+Gangplank;Cannon barrage;R;30000;180
+Gangplank;Parrrley;Q;625;5
+Gangplank;Powder keg;E;1000;18
+Gangplank;Remove scurvy;W;;22
+Gangplank;Trial by fire;P;;15
+Garen;Courage;W;;23
+Garen;Decisive strike;Q;;8
+Garen;Demacian justice;R;400;120
+Garen;Judgment;E;325;9
+Garen;Perseverance;P;;
+Gnar;Boomerang throw;Q;1100;20
+Gnar;Boulder toss;Q;1100;20
+Gnar;Crunch;E;600;22
+Gnar;Hop;E;475;22
+Gnar;Hyper;W;;
+Gnar;Rage gene;P;;
+Gnar;Wallop;W;550;7
+Gragas;Barrel roll;Q;950;11
+Gragas;Body slam;E;600;16
+Gragas;Drunken rage;W;;6
+Gragas;Explosive cask;R;1150;120
+Gragas;Happy hour;P;;
+Graves;Collateral damage;R;;120
+Graves;End of the line;Q;950;12
+Graves;New destiny;P;;
+Graves;Quickdraw;E;425;16
+Graves;Smoke screen;W;700;26
+Hecarim;Devastating charge;E;;20
+Hecarim;Onslaught of shadows;R;;140
+Hecarim;Rampage;Q;188;4
+Hecarim;Spirit of dread;W;263;22
+Hecarim;Warpath;P;;
+Heimerdinger;Ch-2 electron storm grenade;E;925;12
+Heimerdinger;Ch-3x lightning grenade;E;;
+Heimerdinger;H-28g evolution turret;Q;250;1
+Heimerdinger;H-28q apex turret;Q;;
+Heimerdinger;Hextech affinity;P;300;
+Heimerdinger;Hextech micro-rockets;W;1000;11
+Heimerdinger;Hextech rocket swarm;W;1325;
+Heimerdinger;Upgrade!!!;R;;120
+Illaoi;Harsh lesson;W;;4
+Illaoi;Leap of faith;R;500;120
+Illaoi;Prophet of an elder god;P;;
+Illaoi;Tentacle smash;Q;850;10
+Illaoi;Test of spirit;E;900;16
+Irelia;Bladesurge;Q;600;12
+Irelia;Defiant dance;W;825;20
+Irelia;Flawless duet;E;775;18
+Irelia;Ionian fervor;P;;
+Irelia;Vanguard's edge;R;1000;140
+Ivern;Brushmaker;W;1000;40
+Ivern;Daisy!;R;150;140
+Ivern;Friend of the forest;P;;
+Ivern;Rootcaller;Q;1075;14
+Ivern;Triggerseed;E;750;12
+Janna;Eye of the storm;E;800;16
+Janna;Howling gale;Q;1000;12
+Janna;Monsoon;R;725;150
+Janna;Tailwind;P;1250;
+Janna;Zephyr;W;550;8
+Jarvan iv;Cataclysm;R;650;120
+Jarvan iv;Demacian standard;E;830;12
+Jarvan iv;Dragon strike;Q;770;10
+Jarvan iv;Golden aegis;W;600;12
+Jarvan iv;Martial cadence;P;;
+Jax;Counter strike;E;375;16
+Jax;Empower;W;;7
+Jax;Grandmaster's might;R;;80
+Jax;Leap strike;Q;700;8
+Jax;Relentless assault;P;;
+Jayce;Acceleration gate;E;650;16
+Jayce;Hextech capacitor;P;;
+Jayce;Hyper charge;W;;13
+Jayce;Lightning field;W;285;10
+Jayce;Mercury cannon;R;;6
+Jayce;Mercury hammer;R;;6
+Jayce;Shock blast;Q;1050;8
+Jayce;Thundering blow;E;240;20
+Jayce;To the skies!;Q;600;16
+Jhin;Captive audience;E;750;2
+Jhin;Curtain call;R;25000;120
+Jhin;Dancing grenade;Q;550;7
+Jhin;Deadly flourish;W;3000;12
+Jhin;Whisper;P;;
+Jinx;Fishbones, the rocket launcher;Q;;1
+Jinx;Flame chompers!;E;950;24
+Jinx;Get excited!;P;;
+Jinx;Pow-pow, the minigun;Q;;1
+Jinx;Super mega death rocket!;R;;90
+Jinx;Switcheroo!;Q;;1
+Jinx;Zap!;W;1450;8
+Kai'sa;Icathian rain;Q;600;8
+Kai'sa;Killer instinct;R;1500;110
+Kai'sa;Second skin;P;;
+Kai'sa;Supercharge;E;;16
+Kai'sa;Void seeker;W;3000;22
+Kalista;Fate's call;R;1200;150
+Kalista;Martial poise;P;;
+Kalista;Pierce;Q;1450;8
+Kalista;Rend;E;;14
+Kalista;Sentinel;W;5500;30
+Karma;Defiance;E;800;10
+Karma;Focused resolve;W;650;12
+Karma;Gathering fire;P;;
+Karma;Inner flame;Q;950;7
+Karma;Inspire;E;800;10
+Karma;Mantra;R;;45
+Karma;Renewal;W;;16
+Karma;Soulflare;Q;950;7
+Karthus;Death defied;P;;
+Karthus;Defile;E;425;
+Karthus;Lay waste;Q;875;1
+Karthus;Requiem;R;;200
+Karthus;Wall of pain;W;1000;15
+Kassadin;Force pulse;E;600;5
+Kassadin;Nether blade;W;;7
+Kassadin;Null sphere;Q;650;11
+Kassadin;Riftwalk;R;500;5
+Kassadin;Void stone;P;;
+Katarina;Bouncing blades;Q;625;11
+Katarina;Death lotus;R;550;90
+Katarina;Preparation;W;;15
+Katarina;Shunpo;E;700;14
+Katarina;Voracity;P;;
+Kayle;Celestial blessing;W;900;15
+Kayle;Divine ascent;P;;
+Kayle;Divine judgment;R;900;160
+Kayle;Radiant blast;Q;900;12
+Kayle;Starfire spellblade;E;550;8
+Kayn;Blade's reach;W;;13
+Kayn;Blade's reach: rhaast;W;;13
+Kayn;Blade's reach: shadow assassin;W;;13
+Kayn;Reaping slash;Q;;6
+Kayn;Reaping slash: rhaast;Q;;7
+Kayn;Reaping slash: shadow assassin;Q;;7
+Kayn;Shadow step;E;;21
+Kayn;Shadow step: rhaast;E;;21
+Kayn;Shadow step: shadow assassin;E;;8
+Kayn;The darkin scythe;P;;
+Kayn;The darkin scythe: rhaast;P;;
+Kayn;The darkin scythe: shadow assassin;P;;
+Kayn;Umbral trespass;R;550;120
+Kayn;Umbral trespass: rhaast;R;550;120
+Kayn;Umbral trespass: shadow assassin;R;750;120
+Kennen;Electrical surge;W;750;14
+Kennen;Lightning rush;E;;10
+Kennen;Mark of the storm;P;;
+Kennen;Slicing maelstrom;R;550;120
+Kennen;Thundering shuriken;Q;1050;8
+Kha'zix;Leap;E;700;20
+Kha'zix;Taste their fear;Q;;4
+Kha'zix;Unseen threat;P;;
+Kha'zix;Void assault;R;;100
+Kha'zix;Void spike;W;1000;9
+Kindred;Dance of arrows;Q;340;9
+Kindred;Lamb's respite;R;500;180
+Kindred;Mark of the kindred;P;;
+Kindred;Mounting dread;E;500;16
+Kindred;Wolf's frenzy;W;500;18
+Kled;Beartrap on a rope;Q;;9
+Kled;Chaaaaaaaarge!!!;R;3500;160
+Kled;Jousting;E;;14
+Kled;Pocket pistol;Q;;3
+Kled;Skaarl the cowardly lizard;P;;30
+Kled;Violent tendencies;W;;14
+Kog'maw;Bio-arcane barrage;W;130;17
+Kog'maw;Caustic spittle;Q;1000;8
+Kog'maw;Icathian surprise;P;;
+Kog'maw;Living artillery;R;1300;2
+Kog'maw;Void ooze;E;1000;12
+Leblanc;Distortion;W;600;18
+Leblanc;Ethereal chains;E;865;14
+Leblanc;Mimic;R;;60
+Leblanc;Mimic distortion;R;600;60
+Leblanc;Mimic ethereal chains;R;865;60
+Leblanc;Mimic sigil of malice;R;700;60
+Leblanc;Mirror image;P;;60
+Leblanc;Sigil of malice;Q;700;6
+Lee sin;Cripple;E;500;
+Lee sin;Dragon's rage;R;375;110
+Lee sin;Flurry;P;;
+Lee sin;Iron will;W;;
+Lee sin;Resonating strike;Q;1200;
+Lee sin;Safeguard;W;700;12
+Lee sin;Iron will;W;700;12
+Lee sin;Sonic wave;Q;975;11
+Lee sin;Resonating strike;Q;975;11
+Lee sin;Tempest;E;350;10
+Lee sin;Cripple;E;350;10
+Leona;Eclipse;W;275;14
+Leona;Shield of daybreak;Q;;5
+Leona;Solar flare;R;1200;90
+Leona;Sunlight;P;;
+Leona;Zenith blade;E;700;12
+Lissandra;Frozen tomb;R;;120
+Lissandra;Glacial path;E;1050;24
+Lissandra;Ice shard;Q;725;8
+Lissandra;Iceborn subjugation;P;;
+Lissandra;Ring of frost;W;;14
+Lucian;Ardent blaze;W;900;14
+Lucian;Lightslinger;P;;
+Lucian;Piercing light;Q;1000;9
+Lucian;Relentless pursuit;E;425;22
+Lucian;The culling;R;1200;110
+Lulu;Glitterlance;Q;925;7
+Lulu;Help, pix!;E;650;8
+Lulu;Pix, faerie companion;P;;
+Lulu;Whimsy;W;650;16
+Lulu;Wild growth;R;900;110
+Lux;Final spark;R;3340;80
+Lux;Illumination;P;;
+Lux;Light binding;Q;1175;11
+Lux;Lucent singularity;E;1000;10
+Lux;Prismatic barrier;W;1075;14
+Malphite;Granite shield;P;;
+Malphite;Ground slam;E;400;7
+Malphite;Seismic shard;Q;625;8
+Malphite;Thunderclap;W;;12
+Malphite;Unstoppable force;R;1000;130
+Malzahar;Call of the void;Q;900;6
+Malzahar;Malefic visions;E;650;15
+Malzahar;Nether grasp;R;700;140
+Malzahar;Void shift;P;;
+Malzahar;Void swarm;W;150;8
+Maokai;Bramble smash;Q;700;8
+Maokai;Nature's grasp;R;3000;120
+Maokai;Sap magic;P;;30
+Maokai;Sapling toss;E;1100;10
+Maokai;Twisted advance;W;525;13
+Master yi;Alpha strike;Q;600;18
+Master yi;Double strike;P;;
+Master yi;Highlander;R;;85
+Master yi;Meditate;W;;28
+Master yi;Wuju style;E;;18
+Miss fortune;Bullet time;R;1400;120
+Miss fortune;Double up;Q;625;7
+Miss fortune;Love tap;P;;
+Miss fortune;Make it rain;E;1000;18
+Miss fortune;Strut;W;;12
+Mordekaiser;Darkness rise;P;;
+Mordekaiser;Death's grasp;E;;24
+Mordekaiser;Indestructible;W;;14
+Mordekaiser;Obliterate;Q;;9
+Mordekaiser;Realm of death;R;650;140
+Morgana;Black shield;E;800;26
+Morgana;Dark binding;Q;1300;11
+Morgana;Soul shackles;R;1000;120
+Morgana;Soul siphon;P;;
+Morgana;Tormented shadow;W;900;12
+Nami;Aqua prison;Q;875;12
+Nami;Ebb and flow;W;725;10
+Nami;Surging tides;P;;
+Nami;Tidal wave;R;2750;120
+Nami;Tidecaller's blessing;E;800;11
+Nasus;Fury of the sands;R;;120
+Nasus;Siphoning strike;Q;150;8
+Nasus;Soul eater;P;;
+Nasus;Spirit fire;E;650;12
+Nasus;Wither;W;700;15
+Nautilus;Depth charge;R;850;120
+Nautilus;Dredge line;Q;950;14
+Nautilus;Riptide;E;400;7
+Nautilus;Staggering blow;P;;
+Nautilus;Titan's wrath;W;350;12
+Neeko;Blooming burst;Q;800;7
+Neeko;Inherent glamour;P;;
+Neeko;Pop blossom;R;600;90
+Neeko;Shapesplitter;W;900;20
+Neeko;Tangle-barbs;E;1000;12
+Nidalee;Aspect of the cougar;R;;3
+Nidalee;Bushwhack;W;900;13
+Nidalee;Pounce;W;900;13
+Nidalee;Javelin toss;Q;1500;6
+Nidalee;Pounce;W;375;6
+Nidalee;Primal surge;E;600;12
+Nidalee;Prowl;P;;
+Nidalee;Swipe;E;300;6
+Nidalee;Takedown;Q;125;6
+Nocturne;Duskbringer;Q;1200;10
+Nocturne;Paranoia;R;2500;150
+Nocturne;Shroud of darkness;W;;20
+Nocturne;Umbra blades;P;;
+Nocturne;Unspeakable horror;E;425;15
+Nunu & willump;Absolute zero;R;575;110
+Nunu & willump;Biggest snowball ever!;W;;14
+Nunu & willump;Call of the freljord;P;;
+Nunu & willump;Consume;Q;125;12
+Nunu & willump;Snowball barrage;E;690;14
+Olaf;Berserker rage;P;;
+Olaf;Ragnarok;R;;100
+Olaf;Reckless swing;E;325;11
+Olaf;Undertow;Q;1000;7
+Olaf;Vicious strikes;W;;16
+Orianna;Clockwork windup;P;;
+Orianna;Command: attack;Q;825;6
+Orianna;Command: dissonance;W;250;7
+Orianna;Command: protect;E;1100;9
+Orianna;Command: shockwave;R;400;110
+Ornn;Bellows breath;W;500;12
+Ornn;Call of the forge god;R;2500;140
+Ornn;Living forge;P;;
+Ornn;Searing charge;E;800;16
+Ornn;Volcanic rupture;Q;800;9
+Pantheon;Aegis assault;E;400;22
+Pantheon;Comet spear;Q;575;10
+Pantheon;Grand starfall;R;5500;180
+Pantheon;Mortal will;P;;
+Pantheon;Shield vault;W;600;13
+Poppy;Hammer shock;Q;430;8
+Poppy;Heroic charge;E;475;14
+Poppy;Iron ambassador;P;475;16
+Poppy;Keeper's verdict;R;500;140
+Poppy;Steadfast presence;W;400;24
+Pyke;Bone skewer;Q;400;12
+Pyke;Death from below;R;750;120
+Pyke;Ghostwater dive;W;600;12
+Pyke;Gift of the drowned ones;P;;
+Pyke;Phantom undertow;E;550;15
+Qiyana;Audacity;E;650;12
+Qiyana;Edge of ixtal;Q;650;7
+Qiyana;Royal privilege;P;;
+Qiyana;Supreme display of talent;R;950;120
+Qiyana;Terrashape;W;;7
+Quinn;Behind enemy lines;R;;
+Quinn;Blinding assault;Q;1025;11
+Quinn;Harrier;P;;8
+Quinn;Heightened senses;W;2100;50
+Quinn;Skystrike;R;700;
+Quinn;Vault;E;675;12
+Rakan;Battle dance;E;700;20
+Rakan;Fey feathers;P;;
+Rakan;Gleaming quill;Q;900;12
+Rakan;Grand entrance;W;600;18
+Rakan;Lover's leap;P;;
+Rakan;The quickness;R;;130
+Rammus;Defensive ball curl;W;;6
+Rammus;Frenzying taunt;E;325;12
+Rammus;Powerball;Q;;16
+Rammus;Spiked shell;P;;
+Rammus;Tremors;R;300;100
+Rek'sai;Burrow;W;;4
+Rek'sai;Unburrow;W;;
+Rek'sai;Furious bite;E;250;12
+Rek'sai;Fury of the xer'sai;P;;
+Rek'sai;Prey seeker;Q;1300;12
+Rek'sai;Queen's wrath;Q;325;4
+Rek'sai;Prey seeker;Q;;
+Rek'sai;Tunnel;E;250;26
+Rek'sai;Unburrow;W;;1
+Rek'sai;Void rush;R;1500;100
+Renekton;Cull the meek;Q;450;8
+Renekton;Dominus;R;;120
+Renekton;Reign of anger;P;;
+Renekton;Ruthless predator;W;;13
+Renekton;Slice and dice;E;550;18
+Rengar;Battle roar;W;500;16
+Rengar;Bola strike;E;1000;10
+Rengar;Empowered battle roar;W;500;
+Rengar;Empowered bola strike;E;1000;
+Rengar;Empowered savagery;Q;450;
+Rengar;Savagery;Q;450;6
+Rengar;Thrill of the hunt;R;;110
+Rengar;Unseen predator;P;600;
+Riven;Blade of the exile;R;;120
+Riven;Broken wings;Q;260;13
+Riven;Ki burst;W;250;11
+Riven;Runic blade;P;;
+Riven;Valor;E;325;12
+Riven;Wind slash;R;900;120
+Rumble;Electro-harpoon;E;850;6
+Rumble;Flamespitter;Q;600;10
+Rumble;Junkyard titan;P;;
+Rumble;Scrap shield;W;;6
+Rumble;The equalizer;R;1700;110
+Ryze;Arcane mastery;P;;
+Ryze;Overload;Q;1000;6
+Ryze;Realm warp;R;3000;210
+Ryze;Rune prison;W;600;13
+Ryze;Spell flux;E;600;3.25
+Sejuani;Arctic assault;Q;650;20
+Sejuani;Fury of the north;P;;
+Sejuani;Glacial prison;R;1175;130
+Sejuani;Permafrost;E;600;1.5
+Sejuani;Winter's wrath;W;;9
+Senna;Absolution;P;;6
+Senna;Curse of the black mist;E;400;26
+Senna;Dawning shadow;R;;160
+Senna;Last embrace;W;1175;11
+Senna;Piercing darkness;Q;;15
+Sett;Pit grit;P;;
+Sett;Facebreaker;E;490;16
+Sett;Haymaker;W;790;18
+Sett;Knuckle down;Q;;9
+Sett;The show stopper;R;400;120
+Shaco;Backstab;P;;
+Shaco;Deceive;Q;400;12
+Shaco;Hallucinate;R;250;100
+Shaco;Jack in the box;W;425;16
+Shaco;Two-shiv poison;E;625;8
+Shen;Ki barrier;P;;10
+Shen;Shadow dash;E;600;18
+Shen;Spirit's refuge;W;400;18
+Shen;Stand united;R;;200
+Shen;Twilight assault;Q;;8
+Shyvana;Burnout;W;325;12
+Shyvana;Dragon's descent;R;850;
+Shyvana;Dragonborn;P;;
+Shyvana;Flame breath;E;925;12
+Shyvana;Twin bite;Q;;9
+Singed;Fling;E;125;10
+Singed;Insanity potion;R;;120
+Singed;Mega adhesive;W;1000;17
+Singed;Noxious slipstream;P;;
+Singed;Poison trail;Q;20;
+Sion;Death surge;P;;100
+Sion;Decimating smash;Q;600;10
+Sion;Glory in death;P;;
+Sion;Roar of the slayer;E;725;12
+Sion;Soul furnace;W;550;15
+Sion;Unstoppable onslaught;R;;140
+Sivir;Boomerang blade;Q;1250;7
+Sivir;Fleet of foot;P;;
+Sivir;On the hunt;R;1000;120
+Sivir;Ricochet;W;450;12
+Sivir;Spell shield;E;;22
+Skarner;Crystal slash;Q;350;3.5
+Skarner;Crystal spires;P;1150;
+Skarner;Crystalline exoskeleton;W;;13
+Skarner;Fracture;E;1000;14
+Skarner;Impale;R;350;120
+Sona;Aria of perseverance;W;1000;10
+Sona;Crescendo;R;900;140
+Sona;Hymn of valor;Q;850;8
+Sona;Power chord;P;;
+Sona;Song of celerity;E;1000;12
+Soraka;Astral infusion;W;550;6
+Soraka;Equinox;E;925;20
+Soraka;Salvation;P;2500;
+Soraka;Starcall;Q;800;8
+Soraka;Wish;R;;160
+Swain;Death's hand;Q;725;10
+Swain;Demonflare;R;675;
+Swain;Demonic ascension;R;650;120
+Swain;Nevermove;E;850;13
+Swain;Ravenous flock;P;1125;12
+Swain;Vision of empire;W;3500;22
+Sylas;Abduct;E;800;
+Sylas;Abscond;E;400;14
+Sylas;Chain lash;Q;775;10
+Sylas;Hijack;R;950;100
+Sylas;Kingslayer;W;400;13
+Sylas;Petricite burst;P;;
+Syndra;Dark sphere;Q;800;4
+Syndra;Force of will;W;;12
+Syndra;Scatter the weak;E;700;18
+Syndra;Transcendent;P;;
+Syndra;Unleashed power;R;675;120
+Tahm kench;Abyssal voyage;R;2500;140
+Tahm kench;An acquired taste;P;;
+Tahm kench;Devour;W;250;20
+Tahm kench;Thick skin;E;;3
+Tahm kench;Tongue lash;Q;900;5
+Taliyah;Rock surfing;P;;
+Taliyah;Seismic shove;W;900;16
+Taliyah;Threaded volley;Q;1000;7
+Taliyah;Unraveled earth;E;800;16
+Taliyah;Weavers wall;R;3000;180
+Talon;Assassins path;E;;2
+Talon;Blades end;P;;
+Talon;Noxian diplomacy;Q;575;8
+Talon;Rake;W;900;9
+Talon;Shadow assault;R;500;100
+Taric;Bastion;W;800;15
+Taric;Bravado;P;;
+Taric;Cosmic radiance;R;400;180
+Taric;Dazzle;E;575;17
+Taric;Starlights touch;Q;325;3
+Teemo;Blinding dart;Q;680;8
+Teemo;Guerrilla warfare;P;;
+Teemo;Move quick;W;;17
+Teemo;Noxious trap;R;400;1
+Teemo;Toxic shot;E;;
+Thresh;Damnation;P;;
+Thresh;Dark passage;W;950;22
+Thresh;Death sentence;Q;1075;20
+Thresh;Flay;E;500;9
+Thresh;The box;R;450;140
+Tristana;Buster shot;R;700;100
+Tristana;Draw a bead;P;;
+Tristana;Explosive charge;E;550;16
+Tristana;Rapid fire;Q;;20
+Tristana;Rocket jump;W;800;22
+Trundle;Chomp;Q;;4
+Trundle;Frozen domain;W;900;15
+Trundle;King's tribute;P;1400;
+Trundle;Pillar of ice;E;1000;24
+Trundle;Subjugate;R;700;120
+Tryndamere;Battle fury;P;;
+Tryndamere;Bloodlust;Q;;12
+Tryndamere;Mocking shout;W;400;14
+Tryndamere;Spinning slash;E;660;12
+Tryndamere;Undying rage;R;;110
+Twisted fate;Destiny;R;5500;180
+Twisted fate;Loaded dice;P;;
+Twisted fate;Pick a card;W;200;5
+Twisted fate;Stacked deck;E;20;
+Twisted fate;Wild cards;Q;1450;6
+Twitch;Ambush;Q;20;16
+Twitch;Contaminate;E;1200;12
+Twitch;Deadly venom;P;;
+Twitch;Spray and pray;R;850;120
+Twitch;Venom cask;W;1200;13
+Udyr;Bear stance;E;;6
+Udyr;Monkey's agility;P;;
+Udyr;Phoenix stance;R;600;6
+Udyr;Tiger stance;Q;600;6
+Udyr;Turtle stance;W;;6
+Urgot;Corrosive charge;Q;800;12
+Urgot;Disdain;E;475;16
+Urgot;Echoing flames;P;490;30
+Urgot;Fear beyond death;R;2500;100
+Urgot;Purge;W;;
+Varus;Blighted quiver;W;;40
+Varus;Chain of corruption;R;1075;130
+Varus;Hail of arrows;E;925;18
+Varus;Living vengeance;P;;
+Varus;Piercing arrow;Q;;18
+Vayne;Condemn;E;550;20
+Vayne;Final hour;R;;100
+Vayne;Night hunter;P;2000;
+Vayne;Silver bolts;W;;
+Vayne;Tumble;Q;250;4
+Veigar;Baleful strike;Q;950;7
+Veigar;Dark matter;W;900;8
+Veigar;Event horizon;E;700;18
+Veigar;Phenomenal evil power;P;;
+Veigar;Primordial burst;R;650;120
+Vel'koz;Life form disintegration ray;R;1550;120
+Vel'koz;Organic deconstruction;P;;
+Vel'koz;Plasma fission;Q;1050;7
+Vel'koz;Tectonic disruption;E;850;16
+Vel'koz;Void rift;W;1050;1.5
+Vi;Assault and battery;R;800;120
+Vi;Blast shield;P;;
+Vi;Denting blows;W;;
+Vi;Excessive force;E;600;1
+Vi;Vault breaker;Q;250;12
+Viktor;Chaos storm;R;700;120
+Viktor;Death ray;E;525;12
+Viktor;Glorious evolution;P;;
+Viktor;Gravity field;W;800;17
+Viktor;Siphon power;Q;600;9
+Vladimir;Crimson pact;P;;
+Vladimir;Hemoplague;R;700;150
+Vladimir;Sanguine pool;W;300;28
+Vladimir;Tides of blood;E;600;13
+Vladimir;Transfusion;Q;600;9
+Volibear;Frenzied maul;W;325;5
+Volibear;Sky splitter;E;1200;15
+Volibear;Stormbringer;R;700;140
+Volibear;The relentless storm;P;450;
+Volibear;Thundering smash;Q;;14
+Warwick;Blood hunt;W;5000;120
+Warwick;Eternal hunger;P;;
+Warwick;Infinite duress;R;;110
+Warwick;Jaws of the beast;Q;350;6
+Warwick;Primal howl;E;;15
+Wukong;Crushing blow;Q;;9
+Wukong;Cyclone;R;325;120
+Wukong;Nimbus strike;E;625;10
+Wukong;Stone skin;P;;
+Wukong;Warrior trickster;W;;20
+Xayah;Bladecaller;E;;12
+Xayah;Clean cuts;P;;
+Xayah;Deadly plumage;W;;20
+Xayah;Double daggers;Q;;10
+Xayah;Featherstorm;R;;160
+Xerath;Arcane barrage;R;;
+Xerath;Arcanopulse;Q;750;9
+Xerath;Eye of destruction;W;1100;14
+Xerath;Mana surge;P;;
+Xerath;Rite of the arcane;R;5000;130
+Xerath;Shocking orb;E;1050;18
+Xin zhao;Audacious charge;E;650;12
+Xin zhao;Crescent guard;R;188;120
+Xin zhao;Determination;P;;
+Xin zhao;Three talon strike;Q;375;7
+Xin zhao;Wind becomes lightning;W;1000;12
+Yasuo;Last breath;R;1400;80
+Yasuo;Steel tempest;Q;475;4
+Yasuo;Sweeping blade;E;475;0.5
+Yasuo;Way of the wanderer;P;;
+Yasuo;Wind wall;W;400;30
+Yorick;Dark procession;W;;20
+Yorick;Eulogy of the isles;R;600;160
+Yorick;Last rites;Q;125;7
+Yorick;Mourning mist;E;;12
+Yorick;Shepherd of souls;P;1200;
+Yuumi;Bop n block;P;;
+Yuumi;Final chapter;R;;130
+Yuumi;Prowling projectile;Q;;13.5
+Yuumi;You and me!;W;;
+Yuumi;Zoomies;E;;12
+Zac;Cell division;P;;
+Zac;Elastic slingshot;E;1200;24
+Zac;Let's bounce!;R;300;130
+Zac;Stretching strikes;Q;550;13
+Zac;Unstable matter;W;350;5
+Zed;Contempt for the weak;P;;
+Zed;Death mark;R;625;120
+Zed;Living shadow;W;700;22
+Zed;Razor shuriken;Q;900;6
+Zed;Shadow slash;E;290;5
+Ziggs;Bouncing bomb;Q;850;6
+Ziggs;Hexplosive minefield;E;900;16
+Ziggs;Mega inferno bomb;R;5300;120
+Ziggs;Satchel charge;W;1000;20
+Ziggs;Short fuse;P;;
+Zilean;Chronoshift;R;900;120
+Zilean;Rewind;W;;14
+Zilean;Time bomb;Q;900;10
+Zilean;Time in a bottle;P;;120
+Zilean;Time warp;E;550;15
+Zoe;More sparkles!;P;;
+Zoe;Paddle star;Q;800;8.5
+Zoe;Portal jump;R;575;11
+Zoe;Sleepy trouble bubble;E;800;20
+Zoe;Spell thief;W;550;0.25
+Zyra;Deadly spines;Q;800;7
+Zyra;Garden of thorns;P;900;
+Zyra;Grasping roots;E;1100;12
+Zyra;Rampant growth;W;850;
+Zyra;Stranglethorns;R;700;110
