@@ -11,7 +11,7 @@
 - [Tabla ER](#tabla-er)
 - [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
 - [Diagrama Relacional](#diagrama-relacional)
-- [Base de datos y tablas](#base-de-datos-y-tablas)
+- [Base de datos](#base-de-datos)
 - [Importación de datos](#importacion-de-datos)
 - [Conexión con Python](#conexion-con-python)
 - [Licencia](#licencia)
@@ -82,7 +82,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/diagrama_relacional_normalizado.png"/></p> 
 
 ---
-## Base de datos y tablas
+## Base de datos
 
 
 ## Importación de datos
