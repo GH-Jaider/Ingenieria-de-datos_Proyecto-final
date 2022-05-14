@@ -30,7 +30,7 @@ ALTER TABLE public.Champion OWNER TO postgres;
 -- DROP TABLE IF EXISTS public."Ability" CASCADE;
 CREATE TABLE public.Ability (
 	ability_ID serial NOT NULL,
-	name varchar(30) NOT NULL,
+	name varchar(50) NOT NULL,
 	key char NOT NULL,
 	base_cooldown real,
 	base_range integer,

@@ -57,11 +57,11 @@ Ashe;Frost shot;P;;
 Ashe;Hawkshot;E;;5
 Ashe;Ranger's focus;Q;;
 Ashe;Volley;W;1200;14
-Aurelion sol;Celestial expansion;W;;8
-Aurelion sol;Center of the universe;P;;
-Aurelion sol;Comet of legend;E;5500;80
-Aurelion sol;Starsurge;Q;;11
-Aurelion sol;Voice of light;R;;110
+Aurelion Sol;Celestial expansion;W;;8
+Aurelion Sol;Center of the universe;P;;
+Aurelion Sol;Comet of legend;E;5500;80
+Aurelion Sol;Starsurge;Q;;11
+Aurelion Sol;Voice of light;R;;110
 Azir;Arise!;W;500;1.5
 Azir;Conquering sands;Q;720;15
 Azir;Emperor's divide;R;250;120
@@ -104,11 +104,11 @@ Cassiopeia;Noxious blast;Q;850;3.5
 Cassiopeia;Petrifying gaze;R;825;120
 Cassiopeia;Serpentine grace;P;;
 Cassiopeia;Twin fang;E;700;0.75
-Cho'gath;Carnivore;P;;
-Cho'gath;Feast;R;175;80
-Cho'gath;Feral scream;W;650;13
-Cho'gath;Rupture;Q;950;7
-Cho'gath;Vorpal spikes;E;500;8
+Chogath;Carnivore;P;;
+Chogath;Feast;R;175;80
+Chogath;Feral scream;W;650;13
+Chogath;Rupture;Q;950;7
+Chogath;Vorpal spikes;E;500;8
 Corki;Gatling gun;E;600;16
 Corki;Hextech munitions;P;;
 Corki;Missile barrage;R;1200;2
@@ -244,11 +244,11 @@ Janna;Howling gale;Q;1000;12
 Janna;Monsoon;R;725;150
 Janna;Tailwind;P;1250;
 Janna;Zephyr;W;550;8
-Jarvan iv;Cataclysm;R;650;120
-Jarvan iv;Demacian standard;E;830;12
-Jarvan iv;Dragon strike;Q;770;10
-Jarvan iv;Golden aegis;W;600;12
-Jarvan iv;Martial cadence;P;;
+Jarvan IV;Cataclysm;R;650;120
+Jarvan IV;Demacian standard;E;830;12
+Jarvan IV;Dragon strike;Q;770;10
+Jarvan IV;Golden aegis;W;600;12
+Jarvan IV;Martial cadence;P;;
 Jax;Counter strike;E;375;16
 Jax;Empower;W;;7
 Jax;Grandmaster's might;R;;80
@@ -275,11 +275,11 @@ Jinx;Pow-pow, the minigun;Q;;1
 Jinx;Super mega death rocket!;R;;90
 Jinx;Switcheroo!;Q;;1
 Jinx;Zap!;W;1450;8
-Kai'sa;Icathian rain;Q;600;8
-Kai'sa;Killer instinct;R;1500;110
-Kai'sa;Second skin;P;;
-Kai'sa;Supercharge;E;;16
-Kai'sa;Void seeker;W;3000;22
+Kaisa;Icathian rain;Q;600;8
+Kaisa;Killer instinct;R;1500;110
+Kaisa;Second skin;P;;
+Kaisa;Supercharge;E;;16
+Kaisa;Void seeker;W;3000;22
 Kalista;Fate's call;R;1200;150
 Kalista;Martial poise;P;;
 Kalista;Pierce;Q;1450;8
@@ -333,11 +333,11 @@ Kennen;Lightning rush;E;;10
 Kennen;Mark of the storm;P;;
 Kennen;Slicing maelstrom;R;550;120
 Kennen;Thundering shuriken;Q;1050;8
-Kha'zix;Leap;E;700;20
-Kha'zix;Taste their fear;Q;;4
-Kha'zix;Unseen threat;P;;
-Kha'zix;Void assault;R;;100
-Kha'zix;Void spike;W;1000;9
+KhaZix;Leap;E;700;20
+KhaZix;Taste their fear;Q;;4
+KhaZix;Unseen threat;P;;
+KhaZix;Void assault;R;;100
+KhaZix;Void spike;W;1000;9
 Kindred;Dance of arrows;Q;340;9
 Kindred;Lamb's respite;R;500;180
 Kindred;Mark of the kindred;P;;
@@ -349,30 +349,30 @@ Kled;Jousting;E;;14
 Kled;Pocket pistol;Q;;3
 Kled;Skaarl the cowardly lizard;P;;30
 Kled;Violent tendencies;W;;14
-Kog'maw;Bio-arcane barrage;W;130;17
-Kog'maw;Caustic spittle;Q;1000;8
-Kog'maw;Icathian surprise;P;;
-Kog'maw;Living artillery;R;1300;2
-Kog'maw;Void ooze;E;1000;12
-Leblanc;Distortion;W;600;18
-Leblanc;Ethereal chains;E;865;14
-Leblanc;Mimic;R;;60
-Leblanc;Mimic distortion;R;600;60
-Leblanc;Mimic ethereal chains;R;865;60
-Leblanc;Mimic sigil of malice;R;700;60
-Leblanc;Mirror image;P;;60
-Leblanc;Sigil of malice;Q;700;6
-Lee sin;Cripple;E;500;
-Lee sin;Dragon's rage;R;375;110
-Lee sin;Flurry;P;;
-Lee sin;Iron will;W;;
-Lee sin;Resonating strike;Q;1200;
-Lee sin;Safeguard;W;700;12
-Lee sin;Iron will;W;700;12
-Lee sin;Sonic wave;Q;975;11
-Lee sin;Resonating strike;Q;975;11
-Lee sin;Tempest;E;350;10
-Lee sin;Cripple;E;350;10
+KogMaw;Bio-arcane barrage;W;130;17
+KogMaw;Caustic spittle;Q;1000;8
+KogMaw;Icathian surprise;P;;
+KogMaw;Living artillery;R;1300;2
+KogMaw;Void ooze;E;1000;12
+LeBlanc;Distortion;W;600;18
+LeBlanc;Ethereal chains;E;865;14
+LeBlanc;Mimic;R;;60
+LeBlanc;Mimic distortion;R;600;60
+LeBlanc;Mimic ethereal chains;R;865;60
+LeBlanc;Mimic sigil of malice;R;700;60
+LeBlanc;Mirror image;P;;60
+LeBlanc;Sigil of malice;Q;700;6
+Lee Sin;Cripple;E;500;
+Lee Sin;Dragon's rage;R;375;110
+Lee Sin;Flurry;P;;
+Lee Sin;Iron will;W;;
+Lee Sin;Resonating strike;Q;1200;
+Lee Sin;Safeguard;W;700;12
+Lee Sin;Iron will;W;700;12
+Lee Sin;Sonic wave;Q;975;11
+Lee Sin;Resonating strike;Q;975;11
+Lee Sin;Tempest;E;350;10
+Lee Sin;Cripple;E;350;10
 Leona;Eclipse;W;275;14
 Leona;Shield of daybreak;Q;;5
 Leona;Solar flare;R;1200;90
@@ -413,16 +413,16 @@ Maokai;Nature's grasp;R;3000;120
 Maokai;Sap magic;P;;30
 Maokai;Sapling toss;E;1100;10
 Maokai;Twisted advance;W;525;13
-Master yi;Alpha strike;Q;600;18
-Master yi;Double strike;P;;
-Master yi;Highlander;R;;85
-Master yi;Meditate;W;;28
-Master yi;Wuju style;E;;18
-Miss fortune;Bullet time;R;1400;120
-Miss fortune;Double up;Q;625;7
-Miss fortune;Love tap;P;;
-Miss fortune;Make it rain;E;1000;18
-Miss fortune;Strut;W;;12
+Master Yi;Alpha strike;Q;600;18
+Master Yi;Double strike;P;;
+Master Yi;Highlander;R;;85
+Master Yi;Meditate;W;;28
+Master Yi;Wuju style;E;;18
+Miss Fortune;Bullet time;R;1400;120
+Miss Fortune;Double up;Q;625;7
+Miss Fortune;Love tap;P;;
+Miss Fortune;Make it rain;E;1000;18
+Miss Fortune;Strut;W;;12
 Mordekaiser;Darkness rise;P;;
 Mordekaiser;Death's grasp;E;;24
 Mordekaiser;Indestructible;W;;14
@@ -467,11 +467,11 @@ Nocturne;Paranoia;R;2500;150
 Nocturne;Shroud of darkness;W;;20
 Nocturne;Umbra blades;P;;
 Nocturne;Unspeakable horror;E;425;15
-Nunu & willump;Absolute zero;R;575;110
-Nunu & willump;Biggest snowball ever!;W;;14
-Nunu & willump;Call of the freljord;P;;
-Nunu & willump;Consume;Q;125;12
-Nunu & willump;Snowball barrage;E;690;14
+Nunu;Absolute zero;R;575;110
+Nunu;Biggest snowball ever!;W;;14
+Nunu;Call of the freljord;P;;
+Nunu;Consume;Q;125;12
+Nunu;Snowball barrage;E;690;14
 Olaf;Berserker rage;P;;
 Olaf;Ragnarok;R;;100
 Olaf;Reckless swing;E;325;11
@@ -524,16 +524,16 @@ Rammus;Frenzying taunt;E;325;12
 Rammus;Powerball;Q;;16
 Rammus;Spiked shell;P;;
 Rammus;Tremors;R;300;100
-Rek'sai;Burrow;W;;4
-Rek'sai;Unburrow;W;;
-Rek'sai;Furious bite;E;250;12
-Rek'sai;Fury of the xer'sai;P;;
-Rek'sai;Prey seeker;Q;1300;12
-Rek'sai;Queen's wrath;Q;325;4
-Rek'sai;Prey seeker;Q;;
-Rek'sai;Tunnel;E;250;26
-Rek'sai;Unburrow;W;;1
-Rek'sai;Void rush;R;1500;100
+RekSai;Burrow;W;;4
+RekSai;Unburrow;W;;
+RekSai;Furious bite;E;250;12
+RekSai;Fury of the xer'sai;P;;
+RekSai;Prey seeker;Q;1300;12
+RekSai;Queen's wrath;Q;325;4
+RekSai;Prey seeker;Q;;
+RekSai;Tunnel;E;250;26
+RekSai;Unburrow;W;;1
+RekSai;Void rush;R;1500;100
 Renekton;Cull the meek;Q;450;8
 Renekton;Dominus;R;;120
 Renekton;Reign of anger;P;;
@@ -641,11 +641,11 @@ Syndra;Force of will;W;;12
 Syndra;Scatter the weak;E;700;18
 Syndra;Transcendent;P;;
 Syndra;Unleashed power;R;675;120
-Tahm kench;Abyssal voyage;R;2500;140
-Tahm kench;An acquired taste;P;;
-Tahm kench;Devour;W;250;20
-Tahm kench;Thick skin;E;;3
-Tahm kench;Tongue lash;Q;900;5
+Tahm Kench;Abyssal voyage;R;2500;140
+Tahm Kench;An acquired taste;P;;
+Tahm Kench;Devour;W;250;20
+Tahm Kench;Thick skin;E;;3
+Tahm Kench;Tongue lash;Q;900;5
 Taliyah;Rock surfing;P;;
 Taliyah;Seismic shove;W;900;16
 Taliyah;Threaded volley;Q;1000;7
@@ -686,11 +686,11 @@ Tryndamere;Bloodlust;Q;;12
 Tryndamere;Mocking shout;W;400;14
 Tryndamere;Spinning slash;E;660;12
 Tryndamere;Undying rage;R;;110
-Twisted fate;Destiny;R;5500;180
-Twisted fate;Loaded dice;P;;
-Twisted fate;Pick a card;W;200;5
-Twisted fate;Stacked deck;E;20;
-Twisted fate;Wild cards;Q;1450;6
+Twisted Fate;Destiny;R;5500;180
+Twisted Fate;Loaded dice;P;;
+Twisted Fate;Pick a card;W;200;5
+Twisted Fate;Stacked deck;E;20;
+Twisted Fate;Wild cards;Q;1450;6
 Twitch;Ambush;Q;20;16
 Twitch;Contaminate;E;1200;12
 Twitch;Deadly venom;P;;
@@ -721,11 +721,11 @@ Veigar;Dark matter;W;900;8
 Veigar;Event horizon;E;700;18
 Veigar;Phenomenal evil power;P;;
 Veigar;Primordial burst;R;650;120
-Vel'koz;Life form disintegration ray;R;1550;120
-Vel'koz;Organic deconstruction;P;;
-Vel'koz;Plasma fission;Q;1050;7
-Vel'koz;Tectonic disruption;E;850;16
-Vel'koz;Void rift;W;1050;1.5
+VelKoz;Life form disintegration ray;R;1550;120
+VelKoz;Organic deconstruction;P;;
+VelKoz;Plasma fission;Q;1050;7
+VelKoz;Tectonic disruption;E;850;16
+VelKoz;Void rift;W;1050;1.5
 Vi;Assault and battery;R;800;120
 Vi;Blast shield;P;;
 Vi;Denting blows;W;;
@@ -767,11 +767,11 @@ Xerath;Eye of destruction;W;1100;14
 Xerath;Mana surge;P;;
 Xerath;Rite of the arcane;R;5000;130
 Xerath;Shocking orb;E;1050;18
-Xin zhao;Audacious charge;E;650;12
-Xin zhao;Crescent guard;R;188;120
-Xin zhao;Determination;P;;
-Xin zhao;Three talon strike;Q;375;7
-Xin zhao;Wind becomes lightning;W;1000;12
+Xin Zhao;Audacious charge;E;650;12
+Xin Zhao;Crescent guard;R;188;120
+Xin Zhao;Determination;P;;
+Xin Zhao;Three talon strike;Q;375;7
+Xin Zhao;Wind becomes lightning;W;1000;12
 Yasuo;Last breath;R;1400;80
 Yasuo;Steel tempest;Q;475;4
 Yasuo;Sweeping blade;E;475;0.5
