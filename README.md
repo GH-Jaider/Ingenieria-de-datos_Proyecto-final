@@ -87,13 +87,12 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 ---
 ## Conexion con Python
 
-El programa conexion_python.py 
+El script conexion_python.py tiene la función de realizar consultas simples en la base de datos, permitiendo acceder a una o más columnas de una determinada tabla.
 ~~~
 INGRESE EL NOMBRE DE LA TABLA QUE DESEA BUSCAR
 *ingrese exit para salir
 champion
 INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR
-Columnas de champion: ('name', 'class', 'play_style', 'title')
 *ingrese back para volver
 name
 ****NAME****
@@ -104,6 +103,7 @@ Akshan;
 Alistar;
 Amumu;
 ~~~
+Este ejemplo muestra una consulta de la columna _"Name"_ de la tabla _"Champion"_.
 ---
 ## Autores
 
