@@ -88,3 +88,9 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 ## Importación de datos
 ---
 ## Conexion con Python
+---
+## Autores
+
+- Natalia Martínez Neira
+- Juan Andrés Alayón Ariza
+- Jaider Duván Velasco Díaz
