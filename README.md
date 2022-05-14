@@ -97,6 +97,7 @@ COPY table_name (table_column_1, table_column_2)
 		CSV HEADER;
 ~~~
 
+Importación de datos: https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega2/DML_lol.sql
 
 
 ---
