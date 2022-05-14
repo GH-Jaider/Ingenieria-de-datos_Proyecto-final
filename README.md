@@ -103,7 +103,7 @@ Akshan;
 Alistar;
 Amumu;
 ~~~
-<p align="right"><sup>Este ejemplo muestra una consulta de la columna _"Name"_ de la tabla _"Champion"_.</sup>
+<p align="right"><sup>Este ejemplo muestra una consulta de la columna "Name" de la tabla "Champion".</sup>
 
 ---
 ## Autores
