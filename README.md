@@ -10,7 +10,7 @@
 - [Reglas de negocio](#reglas-de-negocio)
 - [Tabla ER](#tabla-er)
 - [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
-- [Diagrama Relacional](#diagrama-relacional)
+- [Diagrama Relacional normalizado](#diagrama-relacional-normalizado)
 - [Base de datos](#base-de-datos)
 - [Importación de datos](#importacion-de-datos)
 - [Conexión con Python](#conexion-con-python)
