@@ -82,7 +82,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 ---
 ## Base de datos
 
-El código ddl que genera las tablas en la base de datos, se encuentra referido dentro del Github, en la carpeta ‘Entrega2’ como: *League_of_Legends_DDL.sql* En este archivo se crean las tablas en sentencias SQL, las cuales son: Champion, Worlds, Play y Ability. Cada una con sus columnas correspondientes. </p>
+El código ddl que genera las tablas en la base de datos, se encuentra en la carpeta ‘Entrega2’ como: *League_of_Legends_DDL.sql* En este archivo se crean las tablas en sentencias SQL, las cuales son: Champion, Worlds, Play y Ability. Cada una con sus columnas correspondientes. </p>
 
 Creación base de datos: https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega2/League_of_Legends_DDL.sql
 
