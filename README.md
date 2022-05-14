@@ -67,7 +67,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 
 | Entidad       | Atributos     | Relaciones          |
 | ------------- | ------------- | -------------       |
-| Champion	     | Champ_ID,	Name,	Class, Play_style, Title| Worlds (M): Play Abilities (M): Have|
+| Champion	     | Name,	Class, Play_style, Title| Worlds (M): Play Abilities (M): Have|
 | Worlds        | Year, Role, Pick_rate, Ban_rate, Win_rate, Kills, Deaths | Champion (M): Play|
 | Abilities     | Ability_ID,	Name,	Key, Base_cooldown, Base_Range| Champion (1): Have|
 
