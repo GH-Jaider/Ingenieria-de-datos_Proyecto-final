@@ -1,19 +1,19 @@
 COPY Worlds (year,role)
-	FROM 'E:\Descargas\Datos\proyecyo_cool\worlds_cosas.csv' 
+	FROM 'Worlds.csv' 
 		WITH DELIMITER ';' 
 		CSV HEADER;
 
 COPY champion(name,class,play_style,title)
-	FROM 'E:\Descargas\Datos\proyecyo_cool\Champion.csv' 
+	FROM 'Champion.csv' 
 		WITH DELIMITER ';' 
 		CSV HEADER;
 
 COPY Ability(name_champion,name,key,base_range,base_cooldown)
-	FROM 'E:\Descargas\Datos\proyecyo_cool\Ability.csv' 
+	FROM 'Ability.csv' 
 		WITH DELIMITER ';' 
 		CSV HEADER;
 
 COPY Play(year_Worlds,name_Champion, role_Worlds, pick_rate, ban_rate, win_rate, kills, deaths)
-	FROM 'E:\Descargas\Datos\proyecyo_cool\play.csv' 
+	FROM 'Play.csv' 
 		WITH DELIMITER ';' 
 		CSV HEADER;
