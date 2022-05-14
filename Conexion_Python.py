@@ -12,9 +12,6 @@ tables ={"champion":("name", "class", "play_style", "title"),
         "play": ("pick_rate", "ban_rate", "win_rate", "kills", "deaths", "year_worlds", "role_worlds", "name_champion")
         }
 
-a = "moro"
-print(a.upper())
-
 try:
     conexion = psycopg2.connect(user=user_in,
                                 password=password_in,
