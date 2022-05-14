@@ -12,7 +12,7 @@
 - [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
 - [Diagrama Relacional normalizado](#diagrama-relacional-normalizado)
 - [Base de datos](#base-de-datos)
-- [Importación de datos](#importacion-de-datos)
+- [Importación de datos](#importación-de-datos)
 - [Conexión con Python](#conexion-con-python)
 - [Autores](#autores)
 
