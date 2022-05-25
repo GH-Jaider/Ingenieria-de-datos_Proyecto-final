@@ -225,6 +225,14 @@ Gráfica de barras de relación de KD con campeón:
 Gráfica de dispersión en relación al KD de cada campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(7).png"/></p>
 
+En vista de las dos gráficas, podemos evidenciar resultados diversos en el KD de los campeones. Es importante ver que un campeón con KD mayor o igual a 1 es lo mejor y lo que generalmente de busca. 
+
+Por parte del gráfico de dispersión, podemos ver que los puntos no están especialmente distantes los unos de los otros, y el es difícil identificar al mejor campeón.
+
+Sin embargo, en el gráfico de barras, hay campeones que claramente están por encima de los otros. Las mejores opciones son los que presentan un KD por encima de 2, puesto que su proporción de deaths es mucho menor a la de Kills. Esto quiere decir que independiente de las partidas que juegue, va a ser un campeón muy eficiente y útil al momento de ejercer Kills sobre el equipo contrario. 
+
+Así, el diagrama de barras nos permite ver las mejores opciones al momento de elegir un campeón.
+
 ### ¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
 League of Legends es un juego relativamente variado en cuanteo a campeones se refiere, pues cuenta con más de 150 campeones diferentes entre si; sin embargo, si se dimensiona con respecto a las partidas, se estaria hablando de que en menos de 15 partidas ya se habría utilizado casi la totalidad de campeones disponibles. Es por ello, y en contraposición a los analisis previos, que resulta relevante el hecho de determianr si existen campeones que no se han llegado a utilizar en el escenario competitivo.
 
