@@ -239,7 +239,7 @@ Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 
 Tabla que muestra los campeones no jugados en el historial de los Worlds
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/tabla_champs.png" width="150"/></p>
-De los 159 campeones con los que cuenta el LoL, para la fecha de actualizacion de las bases de datos utilizadas, son estos 11 los que no se han presenciado en el escenario competitivo nunca, y esto, más allá de ser altamente revelador, da pie a la realización de analisis más exhaustivos que permitan determinar si existe una relación clara o patrón en estos campeones por el cual no se utilizan en competencia.	
+De los 159 campeones con los que cuenta el LoL, para la fecha de actualizacion de las bases de datos utilizadas, son estos 11 los que no se han presenciado el escenario competitivo nunca, y esto, más allá de ser altamente revelador, da pie a la realización de analisis más exhaustivos que permitan determinar si existe una relación clara o patrón en estos campeones por el cual no se utilizan en competencia.	
 	
 ---
 ## Conclusiones 
@@ -249,6 +249,8 @@ LLegados a este punto, es posible proporcionar una serie de conclusiones general
 - En los worlds el rango no es un valor que determina que tan alto será el Pick rate, Ban rate, Kills o Deaths
 - Hay campeones con una aparición media más alta que otros en las partidas de los worlds (inferencia a partir de Kills y Deaths)
 - Ciertas clases de campeones presentan un mejor KD general frente a otros
+
+A partir de estas tres inferencias es posible dar una respuesta parcial a la pregunta inicial que se planteó, sobre todo tomando como referencia el KD y las Kills y Deaths de cada campeón. Con esto dicho, es fácil notar que Lee Sin ha sido siempre un campeon con una alta participación en los juegos de los worlds, pues en los gráficos se evidencia como un valor atipico mucho más alto que el promedio observable. Es decir, a pesar del estado del metagame, siempre se ha considerado como un campeón util para el escenario competitivo.
 
 
 ---
