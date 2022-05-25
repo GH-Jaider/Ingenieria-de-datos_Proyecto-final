@@ -143,6 +143,15 @@ Amumu;
 		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
 		GROUP BY c.name
 ~~~
+	
+	
+A
+
+~~~
+		SELECT c.name, SUM(p.kills)
+		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
+		GROUP BY c.name
+~~~
 - **¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
 los Worlds?**
 - **¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?**
