@@ -198,7 +198,7 @@ Gráfico circular de los campeones con más kills registradas:
 
 Para este punto, y gracias a las dos analisis previos, ya seria relativamente factible empezar a inferir que personajes predominan en el escenario competitivo del LoL; sin embargo, dado que los analisis anteriores son facilmente influenciables por partidas atípicas, lo mejor para una analisis de este estilo seria utilizar una medida especializada en representar el rendimeinto de un campeón, llamada KD, y repressenta la razon entre las Kills y las Deaths que tiene un campeón. Para efectos de facilitar este analisis se realizó un cálculo generalizado del KD, esto es: 
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/SUMA.png" width="250"/></p>
-	<p align="center"><sup>Donde n representa el número de partidas jugadas con un campeón</sup>
+	<p align="center"><sup>Donde n representa el número de partidas jugadas con un campeón</sup></p>
 A la hora de realizar una consulta que permitiera obtener estos datos fue importante cubrir el escenario en que un campeón no hubiese muerto en ninguno de los juegos.
 
 Sentencia SQL empleada para obtener los datos necesarios para el analisis:
