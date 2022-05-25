@@ -132,6 +132,7 @@ Amumu;
 ## Analisis de escenarios con DASH
 ### En los Worlds ¿Predominan los campeones de rango o melé?
 	Sentencia SQL empleada para obtener los datos necesarios para el analisis:
+	
 ~~~	
 	    	SELECT cp.name as champion, AVG(a.base_range)::real as range
     		FROM (Champion c INNER JOIN Play p ON (c.name = p.name_Champion)) cp
