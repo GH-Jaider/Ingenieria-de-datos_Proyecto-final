@@ -197,10 +197,10 @@ Gráfico circular de los campeones con más kills registradas:
 ### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en los Worlds?
 
 Para este punto, y gracias a las dos analisis previos, ya seria relativamente factible empezar a inferir que personajes predominan en el escenario competitivo del LoL; sin embargo, dado que los analisis anteriores son facilmente influenciables por partidas atípicas, lo mejor para una analisis de este estilo seria utilizar una medida especializada en representar el rendimeinto de un campeón, llamada KD, y repressenta la razon entre las Kills y las Deaths que tiene un campeón. Para efectos de facilitar este analisis se realizó un cálculo generalizado del KD, esto es: 
-<p align="center"><img src="[https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(6).png](https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/A%C3%B1adidos/SUMA.png)"/></p>
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/SUMA.png"/></p>
 	Donde n representa el número de partidas jugadas con un campeón
 
-https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/A%C3%B1adidos/SUMA.png
+
 ~~~
 		(SELECT c.name champion, SUM(p.kills)::real KD 
 		 FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
