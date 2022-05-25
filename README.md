@@ -265,6 +265,9 @@ A partir de estas tres inferencias es posible dar una respuesta parcial a la pre
 - La carga de datos de manera masiva es bastante eficiente. Sin embargo puede llegar a presentar complicaciones al momento de establecer la ruta y los permisos de administrador
 
 
+### Conclusiones del uso de DASH y Python
+
+
 ---
 ## Autores
 
