@@ -130,6 +130,10 @@ Amumu;
 ---
 ## Analisis de escenarios con DASH
 - **En los Worlds ¿Predominan los campeones de rango o melé?**
+	Sentencia SQL empleada para obtener los datos necesarios para el analisis:
+		~~~
+
+		~~~
 - **¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?**
 - **¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
 los Worlds?**
