@@ -146,8 +146,10 @@ Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 		GROUP BY cp.name
 ~~~
 
+Gráfico de barras entre rango y campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot.png"/></p>
 
+Gráfico de líneas entre rango y campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(1).png"/></p>
 	
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
@@ -158,7 +160,9 @@ Sentencia SQL empleada para obtener los datos necesarios para el analisis:
     		GROUP BY c.name
    		ORDER BY Total_Deaths DESC
 ~~~
-	
+
+Grafíco de dispersión entre las muertes totales de un campeón:
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(2).png"/></p>
 	
 A
 
