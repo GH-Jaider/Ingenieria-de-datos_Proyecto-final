@@ -135,27 +135,47 @@ Amumu;
 	    	SELECT cp.name as champion, AVG(a.base_range)::real as range
     		FROM (Champion c INNER JOIN Play p ON (c.name = p.name_Champion)) cp
     		INNER JOIN Ability a on (cp.name = a.name_Champion)
-    		GROUP BY cp.name
+		GROUP BY cp.name
 ~~~
 - **¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?**
 ~~~
-		SELECT c.name, SUM(p.deaths)
-		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
-		GROUP BY c.name
+		SELECT c.name as champion, SUM(p.deaths) Total_Deaths
+    		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
+    		GROUP BY c.name
+   		ORDER BY Total_Deaths DESC
 ~~~
 	
 	
 A
 
 ~~~
-		SELECT c.name, SUM(p.kills)
-		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
-		GROUP BY c.name
+		SELECT c.name as champion, SUM(p.kills) Total_Kills
+   		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
+    		GROUP BY c.name
+    		ORDER BY Total_Kills DESC
 ~~~
+	
 - **¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
 los Worlds?**
+~~~
+		(SELECT c.name champion, SUM(p.kills)::real KD 
+		 FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
+		 GROUP BY c.name 
+		 HAVING SUM(p.deaths) = 0)
+		UNION
+		(SELECT c.name, SUM(p.Kills)/SUM(p.Deaths)::real KD
+		 FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
+		 GROUP BY c.name
+		 HAVING SUM(p.Deaths)>0)
+~~~
+	
 - **¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?**
 
+~~~
+		SELECT c.name champions
+		FROM Champion c LEFT JOIN Play p ON (c.name = p.name_Champion)
+		WHERE p.pick_rate is NULL
+~~~
 	
 	
 ---
