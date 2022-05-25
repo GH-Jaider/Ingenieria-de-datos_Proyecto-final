@@ -195,7 +195,10 @@ Gráfico circular de los campeones con más kills registradas:
 		 GROUP BY c.name
 		 HAVING SUM(p.Deaths)>0)
 ~~~
-	
+
+Gráfica de barras de relación de KD con campeón:
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(6).png"/></p>
+
 ### ¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
 
 ~~~
