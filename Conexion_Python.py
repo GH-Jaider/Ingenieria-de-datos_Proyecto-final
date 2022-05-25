@@ -28,13 +28,13 @@ try:
         #Se ejecuta la sentencia para mostrar los nombres de los paísesa
             cursor = conexion.cursor()
             cursor.execute(sql1)
-            country = cursor.fetchone()
+            consult = cursor.fetchone()
             print(f"****{column.upper()}****")
-            while country:
-                for i in range(len(country)):
-                    print(country [i], end=";\t")
+            while consult:
+                for i in range(len(consult)):
+                    print(consult [i], end=";\t")
                 print("")
-                country = cursor.fetchone()
+                consult = cursor.fetchone()
                 
             column = input(f"INGRESE EL NOMBRE DE LA COLUMNA QUE DESEA BUSCAR\n*ingrese back para volver\n*")
     
