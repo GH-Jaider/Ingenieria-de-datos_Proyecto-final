@@ -151,7 +151,13 @@ Gráfico de barras entre rango y campeón:
 
 Gráfico de líneas entre rango y campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(1).png"/></p>
-	
+
+Para este caso, se realizaron dos diagramas: uno de barras y uno de líneas. Ambos nos presentan la información del rango con respecto a cada campeón jugado en Worlds.
+En ambos, el panorama general presenta los campeones que han sido jugados y se puede evidenciar que la mayoría de estos tienen un rango menor a 2000. Con esto, es posible decir que la mayoría de los campeones jugados en el torneo son campeones de melé. 
+
+Sin embargo con el diagrama de líneas podemos evidenciar picos que están prácticamente igualados a los 2000, por lo que puede que existan más campeones de rango jugados a los evidenciados. Esto se debe a que al calcular la media del rango de cada campeón, es posible que los de rango hayan tenido una habilidad que desviara su media haciéndolos pasar por melé. 
+Así, las desventajas de ambos diagramas recaen en los valores que quedan muy cercanos al límite. Sin embargo, nos permiten tener una perspectiva bastante acertada de la dominancia de los campeones a melé jugados en los Worlds.
+
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
 Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, que, anque a priori no seune como uan información sumamente relevante, permite hacerse una idea más allá de simplemente "cuál es el campeon que más muere", ya que es posible empezar a inferir cuales son los campeones que más se utilizan en el competitivo, dado que la relación entre muertes y partidas jugadas crece de forma directamente proporcional.
 
