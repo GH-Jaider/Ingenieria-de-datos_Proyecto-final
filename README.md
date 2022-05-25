@@ -153,9 +153,11 @@ Gráfico de líneas entre rango y campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(1).png"/></p>
 	
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
-Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, 
+Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, que, anque a priori no seune como uan información sumamente relevante, permite hacerse una idea más allá de simplemente "cuál es el campeon que más muere", ya que es posible empezar a inferir cuales son los campeones que más se utilizan en el competitivo, dado que la relación entre muertes y partidas jugadas crece de forma directamente proporcional.
 
+Los gráficos permiten entender esta idea de forma más sencilla.
 
+Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 ~~~
 		SELECT c.name as champion, SUM(p.deaths) Total_Deaths
     		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
