@@ -161,9 +161,12 @@ Gráfico de líneas entre rango y campeón:
    		ORDER BY Total_Deaths DESC
 ~~~
 
-Grafíco de dispersión entre las muertes totales de un campeón:
+Grafíco de dispersión de deaths totales de un campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(2).png"/></p>
-	
+
+Gráfico circular de los campeones con más deaths registradas:
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(3).png"/></p>
+
 A
 
 ~~~
@@ -172,7 +175,14 @@ A
     		GROUP BY c.name
     		ORDER BY Total_Kills DESC
 ~~~
-	
+
+Grafíco de dispersión de kills totales de un campeón:
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(4).png"/></p>
+
+Gráfico circular de los campeones con más kills registradas:
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(5).png"/></p>
+
+
 ### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en los Worlds?
 ~~~
 		(SELECT c.name champion, SUM(p.kills)::real KD 
