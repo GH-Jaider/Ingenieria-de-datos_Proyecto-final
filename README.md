@@ -242,7 +242,7 @@ De los 159 campeones con los que cuenta el LoL, para la fecha de actualizacion d
 ---
 ## Conclusiones 
 	
-	awadeuwu
+	placeholder
 ---
 ## Autores
 
