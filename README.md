@@ -130,7 +130,11 @@ Amumu;
 ---
 ## Analisis de escenarios con DASH
 - **En los Worlds ¿Predominan los campeones de rango o melé?**
-	
+- **¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
+- **¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
+los Worlds?
+- **¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
+
 	
 	
 ---
