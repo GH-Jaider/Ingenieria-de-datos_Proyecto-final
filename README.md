@@ -82,7 +82,7 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 
 ## Diagrama Relacional Normalizado
 
-<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/relacional_normalizado_v2.png"/></p> 
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/relacional_normalizado_v3.png"/></p> 
 
 ---
 ## Base de datos
