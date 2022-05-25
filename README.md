@@ -144,6 +144,10 @@ Sentencia SQL empleada para obtener los datos necesarios para el analisis:
     		INNER JOIN Ability a on (cp.name = a.name_Champion)
 		GROUP BY cp.name
 ~~~
+
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot.png"/></p>
+
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(1).png"/></p>
 	
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
 
