@@ -242,8 +242,11 @@ De los 159 campeones con los que cuenta el LoL, para la fecha de actualizacion d
 ---
 ## Conclusiones 
 	
-LLegados a este punto, es posible proporcionar una serie de conclusiones generales gracias a los analisis previos.
-Para empezar, podemos  
+LLegados a este punto, es posible proporcionar una serie de conclusiones generales gracias a los analisis previos, algunas son:
+
+- En los worlds predominan campeones melé, frente a campeones rango
+- Hay campeones con una aparicion media mas alta que otros en las partidas de los worlds (iferencia a partir de Kills y Deaths)
+- 
 
 
 ---
