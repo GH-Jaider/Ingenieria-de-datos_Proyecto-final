@@ -140,7 +140,7 @@ Amumu;
     		INNER JOIN Ability a on (cp.name = a.name_Champion)
 		GROUP BY cp.name
 ~~~
-- **¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?**
+### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?**
 ~~~
 		SELECT c.name as champion, SUM(p.deaths) Total_Deaths
     		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
