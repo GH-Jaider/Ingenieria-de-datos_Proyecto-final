@@ -16,6 +16,7 @@
 - [Importación de datos](#importación-de-datos)
 - [Conexión con Python](#conexion-con-python)
 - [Analisis de escenarios con DASH](#analisis-de-escenarios-con-dash)
+- [Conclusiones](#conclusiones)
 - [Autores](#autores)
 
 ---
