@@ -16,7 +16,8 @@
 - [Importación de datos](#importación-de-datos)
 - [Conexión con Python](#conexion-con-python)
 - [Analisis de escenarios con DASH](#analisis-de-escenarios-con-dash)
-- - [Escenario 1](#En-los-Worlds-¿Predominan-los-campeones-de-rango-o-melé?)
+	- [En los Worlds ¿Predominan los campeones de rango o melé?](#En-los-Worlds-¿Predominan-los-campeones-de-rango-o-melé?)
+	- [
 - [Autores](#autores)
 
 ---
