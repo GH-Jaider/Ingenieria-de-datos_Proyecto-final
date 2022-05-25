@@ -159,7 +159,7 @@ Sin embargo con el diagrama de líneas podemos evidenciar picos que están prác
 Así, las desventajas de ambos diagramas recaen en los valores que quedan muy cercanos al límite. Sin embargo, nos permiten tener una perspectiva bastante acertada de la dominancia de los campeones a melé jugados en los Worlds.
 
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
-Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, que, anque a priori no seune como uan información sumamente relevante, permite hacerse una idea más allá de simplemente "cuál es el campeon que más muere", ya que es posible empezar a inferir cuales son los campeones que más se utilizan en el competitivo, dado que la relación entre muertes y partidas jugadas crece de forma directamente proporcional.
+Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, que, anque a priori no suene como una información sumamente relevante, permite hacerse una idea más allá de simplemente "cuál es el campeon que más muere", ya que es posible empezar a inferir cuales son los campeones que más se utilizan en el competitivo, dado que la relación entre muertes y partidas jugadas crece de forma directamente proporcional.
 
 Los gráficos permiten entender esta idea de forma más sencilla.
 
@@ -193,6 +193,11 @@ Grafíco de dispersión de kills totales de un campeón:
 Gráfico circular de los campeones con más kills registradas:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(5).png"/></p>
 
+Teniendo en cuenta los 4 gráficos anteriores, podemos establecer una conexión entre el número de kills de un campeón y su número de deaths. Como se mencionó, la cantidad de kills y deaths de un campeón se ve directamente influenciada por la cantidad de partidas en las que se jugó. En términos simples, si un jugador se juega en muchas partidas, va a acumular más kills y deaths. Más tiempo en partidas significa más probabilidad de hacer una kill y de tener una death.
+Para este caso, los diagramas de dispersión nos permiten ver esto de mejor manera. Puesto que a medida que las kills de un campeón aumenta, también lo hacen sus deaths. 
+El diagrama de tortas nos permite ver esta distribución de manera más acertada para quienes encabezan los primeros 15 lugares de cada variable, donde evidenciamos campeones en ambas zonas. 
+En otro punto, podemos ver a Lee Sin como el jugador con más kills y deaths a lo largo de la historia de Worlds, por lo que podemos deducir que ha sido uno de los campeones más populares en el escenario competitivo del juego y ha dado buenos resultados.
+
 
 ### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en los Worlds?
 
@@ -221,7 +226,7 @@ Gráfica de dispersión en relación al KD de cada campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(7).png"/></p>
 
 ### ¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
-League of Legends es un juego relativamente variado en caunto a campeones se refiere, pues cuenta con más de 150 campeones diferentes entre si; sin embargo, si se dimensiona con respecto a las partidas, se estaria hablando de que en menos de 15 partidas ya se habría utilizado casi la totalidad de campeones disponibles. Es por ello, y en contraposición a los analisis previos, que resulta relevante el hecho de determianr si existen campeones que no se han llegado a utilizar en el escenario competitivo.
+League of Legends es un juego relativamente variado en cuanteo a campeones se refiere, pues cuenta con más de 150 campeones diferentes entre si; sin embargo, si se dimensiona con respecto a las partidas, se estaria hablando de que en menos de 15 partidas ya se habría utilizado casi la totalidad de campeones disponibles. Es por ello, y en contraposición a los analisis previos, que resulta relevante el hecho de determianr si existen campeones que no se han llegado a utilizar en el escenario competitivo.
 
 Se obtuvieron los siguientes resultados: 
  
