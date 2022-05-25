@@ -128,6 +128,11 @@ Amumu;
 <p align="right"><sup>Este ejemplo muestra una consulta de la columna "Name" de la tabla "Champion".</sup>
 
 ---
+## Analisis de escenarios con DASH
+	
+	
+	
+---
 ## Autores
 
 - Natalia Martínez Neira
