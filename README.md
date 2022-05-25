@@ -94,14 +94,14 @@ Creación base de datos: https://github.com/GH-Jaider/Ingenieria-de-datos_Proyec
 ---
 ## Importación de datos
 
-Las sentencias SQL para realizar la carga de datos se encuentran en la carpeta ‘Entrega2’ como: *DML_lol.sql* Se aprovecharon las funciones de carga masiva de datos de la siguiente manera:
+Las sentencias SQL para realizar la carga de datos se encuentran en la carpeta ‘Entrega3’ como: *DML_lol.sql* Se aprovecharon las funciones de carga masiva de datos de la siguiente manera:
 ~~~
 COPY table_name (table_column_1, table_column_2)
 	FROM 'file_route.csv' 
 		WITH DELIMITER ';' 
 		CSV HEADER;
 ~~~
-<p align="right"><sup>Los archivos DML en 'Entrega2' solo tienen el nombre del archivo.csv, es importante que al ejecutar se cambien por la ruta</sup>
+<p align="right"><sup>Los archivos DML en 'Entrega3' solo tienen el nombre del archivo.csv, es importante que al ejecutar se cambien por la ruta</sup>
 
 Importación de datos: https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega2/DML_lol.sql
 
