@@ -16,8 +16,6 @@
 - [Importación de datos](#importación-de-datos)
 - [Conexión con Python](#conexion-con-python)
 - [Analisis de escenarios con DASH](#analisis-de-escenarios-con-dash)
-	- [En los Worlds ¿Predominan los campeones de rango o melé?](#en-los-worlds-¿predominan-los-campeones-de-rango-o-melé?)
-	- [
 - [Autores](#autores)
 
 ---
@@ -140,7 +138,7 @@ Amumu;
     		INNER JOIN Ability a on (cp.name = a.name_Champion)
 		GROUP BY cp.name
 ~~~
-### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?**
+### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
 ~~~
 		SELECT c.name as champion, SUM(p.deaths) Total_Deaths
     		FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
@@ -158,8 +156,8 @@ A
     		ORDER BY Total_Kills DESC
 ~~~
 	
-- **¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
-los Worlds?**
+### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
+los Worlds?
 ~~~
 		(SELECT c.name champion, SUM(p.kills)::real KD 
 		 FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
@@ -172,7 +170,7 @@ los Worlds?**
 		 HAVING SUM(p.Deaths)>0)
 ~~~
 	
-- **¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?**
+### ¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
 
 ~~~
 		SELECT c.name champions
