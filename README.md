@@ -129,6 +129,7 @@ Amumu;
 
 ---
 ## Analisis de escenarios con DASH
+### En los Worlds ¿Predominan los campeones de rango (rango mayor a 300 puntos) o melé?
 	
 	
 	
