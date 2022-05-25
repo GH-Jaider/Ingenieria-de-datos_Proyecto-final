@@ -244,7 +244,7 @@ De los 159 campeones con los que cuenta el LoL, para la fecha de actualizacion d
 	
 LLegados a este punto, es posible proporcionar una serie de conclusiones generales gracias a los analisis previos, algunas son:
 
-- En los worlds predominan campeones melé, frente a campeones rango
+- En los worlds el rango no es un valor que determina que tan alto sera el Pick rate, Ban rate, Kills o Deaths
 - Hay campeones con una aparición media más alta que otros en las partidas de los worlds (inferencia a partir de Kills y Deaths)
 - Ciertas clases de campeones presentan un mejor KD general frente a otros
 
