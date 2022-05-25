@@ -171,7 +171,8 @@ Grafíco de dispersión de deaths totales de un campeón:
 Gráfico circular de los campeones con más deaths registradas:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(3).png"/></p>
 
-A
+
+Con el fin de complementar el analisis previo, que era con respecto a las Deaths, se realizo una consulta similar que permite obtener el acumulado de Kills realizadas por un campeón e su historia competitiva.
 
 ~~~
 		SELECT c.name as champion, SUM(p.kills) Total_Kills
@@ -188,6 +189,9 @@ Gráfico circular de los campeones con más kills registradas:
 
 
 ### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en los Worlds?
+
+
+
 ~~~
 		(SELECT c.name champion, SUM(p.kills)::real KD 
 		 FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
