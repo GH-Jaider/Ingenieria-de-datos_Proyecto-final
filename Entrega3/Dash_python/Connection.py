@@ -7,11 +7,11 @@ class Connection:
     
     def openConnection(self):
         try:
-            self.connection = psycopg2.connect(user="postgres",
-                                               password="123456789",
-                                               database="Proyecto3c",
-                                               host="localhost", 
-                                               port="5432")
+            self.connection = psycopg2.connect(user="Usuario",
+                                               password="Contraseña",
+                                               database="database",
+                                               host="Host", 
+                                               port="Port")
         except Exception as e:
             print (e)
 
