@@ -134,7 +134,7 @@ Amumu;
 ## Analisis de escenarios con DASH
 ### En los Worlds ¿Predominan los campeones de rango o melé?
 	
-Gracias a la relación que puede generarse entre las habilidades de un campeón y las veces que se ha jugado en el escenario competitivo, es posible realizar un analisis comparativo en que se promedia el rango de las habilidades - para determinar si un campeon se puede considerar "de rango" (promedio de rango mayor a 300 puntos) - y se vincula este dato a los campeones se han jugado en los worlds.
+Gracias a la relación que puede generarse entre las habilidades de un campeón y las veces que se ha jugado en el escenario competitivo, es posible realizar un analisis comparativo en que se promedia el rango de las habilidades - para determinar si un campeon se puede considerar "de rango" (promedio de rango mayor a 2000 puntos) - y se vincula este dato a los campeones se han jugado en los worlds.
 
 Con el fin de facilitar el analisis de la información que se obtiene se muestran los datos mediante gráficos.
 	
@@ -172,7 +172,7 @@ Gráfico circular de los campeones con más deaths registradas:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(3).png"/></p>
 
 
-Con el fin de complementar el analisis previo, que era con respecto a las Deaths, se realizo una consulta similar que permite obtener el acumulado de Kills realizadas por un campeón e su historia competitiva.
+Con el fin de complementar el analisis previo, que era con respecto a las Deaths, se realizó una consulta similar que permite obtener el acumulado de Kills realizadas por un campeón e su historia competitiva.
 
 ~~~
 		SELECT c.name as champion, SUM(p.kills) Total_Kills
@@ -190,6 +190,9 @@ Gráfico circular de los campeones con más kills registradas:
 
 ### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en los Worlds?
 
+Para este punto, y gracias a las dos analisis previos, ya seria relativamente factible empezar a inferir que personajes predominan en el escenario competitivo del LoL; sin embargo, dado que los analisis anteriores son facilmente influenciables por partidas atípicas, lo mejor para una analisis de este estilo seria utilizar una medida especializada en representar el rendimeinto de un campeón, llamada KD, y repressenta la razon entre las Kills y las Deaths que tiene un campeón. Para efectos de facilitar este analisis se realizó un cálculo generalizado del KD, esto es: 
+<p align="center">![image](https://user-images.githubusercontent.com/81306684/170185431-16a22451-12a0-4443-bd25-ea6dc1d28bca.png)
+	Donde n representa el número de partidas jugadas con un campeón
 
 
 ~~~
