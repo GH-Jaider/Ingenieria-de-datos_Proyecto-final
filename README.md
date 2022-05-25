@@ -153,7 +153,7 @@ Gráfico de líneas entre rango y campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(1).png"/></p>
 	
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
-Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, que, aunque a priori no suene como una informacion sumamente relevante, permite hacerse una idea más allá de simplemente "cuál es campeón que más muere", ya que es posible empezar a inferir cuales son los campeones que más se utilizan en el escenario competitivo, ya que la relación entre muertes y partidas jugadas crece de manera directamente proporcional.
+Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, 
 
 
 ~~~
@@ -200,6 +200,9 @@ Gráfico circular de los campeones con más kills registradas:
 
 Gráfica de barras de relación de KD con campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(6).png"/></p>
+
+Gráfica de dispersión en relación al KD de cada campeón:
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(7).png"/></p>
 
 ### ¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
 
