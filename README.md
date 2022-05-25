@@ -153,6 +153,8 @@ Gráfico de líneas entre rango y campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(1).png"/></p>
 	
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
+Este es un analisis relativamente sencillo que se obtiene a partir de filtrar la suma de las Deaths que ha tenido un campeon a lo largo de sus historial competitivo, 
+
 
 ~~~
 		SELECT c.name as champion, SUM(p.deaths) Total_Deaths
