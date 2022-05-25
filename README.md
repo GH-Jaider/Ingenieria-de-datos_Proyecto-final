@@ -246,7 +246,7 @@ LLegados a este punto, es posible proporcionar una serie de conclusiones general
 
 - En los worlds predominan campeones melé, frente a campeones rango
 - Hay campeones con una aparicion media mas alta que otros en las partidas de los worlds (iferencia a partir de Kills y Deaths)
-- Ciertas clases de campeones presentan un mejor KD general, frente a otros
+- Ciertas clases de campeones presentan un mejor KD general frente a otros
 
 
 ---
