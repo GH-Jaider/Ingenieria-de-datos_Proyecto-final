@@ -132,7 +132,10 @@ Amumu;
 - **En los Worlds ¿Predominan los campeones de rango o melé?**
 	Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 		~~~
-
+		SELECT cp.name as champion, AVG(a.base_range)::real as range
+    		FROM (Champion c INNER JOIN Play p ON (c.name = p.name_Champion)) cp
+    		INNER JOIN Ability a on (cp.name = a.name_Champion)
+    		GROUP BY cp.name
 		~~~
 - **¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?**
 - **¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
