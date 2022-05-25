@@ -127,14 +127,16 @@ Alistar;
 Amumu;
 ~~~
 <p align="right"><sup>Este ejemplo muestra una consulta de la columna "Name" de la tabla "Champion".</sup>
-	
-La carpeta Dash_python tiene los scripts necesarios para generar la conexión, las consultas y la creación de todas las gráficas. 
-https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/tree/main/Entrega3/Dash_python
 
 ---
 	
 ## Analisis de escenarios con DASH
 ### En los Worlds ¿Predominan los campeones de rango o melé?
+	
+Gracias a la relación que puede generarse entre las habilidades de un campeón y las veces que se ha jugado en el escenario competitivo, es posible realizar un analisis comparativo en que se promedia el rango de las habilidades - para determinar si un campeon se puede considerar "de rango" (promedio de rango mayor a 300 puntos) - y se vincula este dato a los campeones se han jugado en los worlds.
+
+Con el fin de facilitar el analisis de la infromacion que se obtenga se muestran los datos mediante gráficos.
+	
 Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 	
 ~~~		SELECT cp.name as champion, AVG(a.base_range)::real as range
@@ -142,8 +144,6 @@ Sentencia SQL empleada para obtener los datos necesarios para el analisis:
     		INNER JOIN Ability a on (cp.name = a.name_Champion)
 		GROUP BY cp.name
 ~~~
-
-<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot.png"/></p> 
 	
 ### ¿Cuál es el campeón con más deaths registradas a lo largo de la historia de los Worlds?
 
