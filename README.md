@@ -10,6 +10,7 @@
 - [Reglas de negocio](#reglas-de-negocio)
 - [Tabla ER](#tabla-er)
 - [Diagrama Entidad-Relacion](#diagrama-entidad-relacion)
+- - [Diagrama Relacional](#diagrama-relacional)
 - [Diagrama Relacional normalizado](#diagrama-relacional-normalizado)
 - [Base de datos](#base-de-datos)
 - [Importación de datos](#importación-de-datos)
@@ -75,9 +76,13 @@ Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los 
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Diagrama%20entidad-relacion.jpg"/></p> 
 
 ---
-## Diagrama Relacional Normalizado
+## Diagrama Relacional
 
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/diagrama_relacional_v2.png"/></p> 
+
+## Diagrama Relacional Normalizado
+
+<p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/relacional_normalizado_v2.png"/></p> 
 
 ---
 ## Base de datos
