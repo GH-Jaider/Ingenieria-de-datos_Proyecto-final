@@ -156,8 +156,7 @@ A
     		ORDER BY Total_Kills DESC
 ~~~
 	
-### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en
-los Worlds?
+### ¿Cuál es el campeón con mayor rendimiento y el de peor rendimiento según su KD en los Worlds?
 ~~~
 		(SELECT c.name champion, SUM(p.kills)::real KD 
 		 FROM Champion c INNER JOIN Play p ON (c.name = p.name_Champion)
