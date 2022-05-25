@@ -135,7 +135,7 @@ Amumu;
 	
 Gracias a la relación que puede generarse entre las habilidades de un campeón y las veces que se ha jugado en el escenario competitivo, es posible realizar un analisis comparativo en que se promedia el rango de las habilidades - para determinar si un campeon se puede considerar "de rango" (promedio de rango mayor a 300 puntos) - y se vincula este dato a los campeones se han jugado en los worlds.
 
-Con el fin de facilitar el analisis de la infromacion que se obtenga se muestran los datos mediante gráficos.
+Con el fin de facilitar el analisis de la información que se obtiene se muestran los datos mediante gráficos.
 	
 Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 	
