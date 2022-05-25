@@ -221,13 +221,18 @@ Gráfica de dispersión en relación al KD de cada campeón:
 <p align="center"><img src="https://github.com/GH-Jaider/Ingenieria-de-datos_Proyecto-final/blob/main/Entrega3/Graficas/newplot%20(7).png"/></p>
 
 ### ¿Hay campeones que no se han jugado en el escenario competitivo de LoL? ¿Cuáles son?
+League of Legends es un juego relativamente variado en caunto a campeones se refiere, pues cuenta con más de 150 campeones diferentes entre si; sin embargo, si se dimensiona con respecto a las partidas, se estaria hablando de que en menos de 15 partidas ya se habría utilizado casi la totalidad de campeones disponibles. Es por ello, y en contraposición a los analisis previos, que resulta relevante el hecho de determianr si existen campeones que no se han llegado a utilizar en el escenario competitivo.
 
+Se obtuvieron los siguientes resultados: 
+ 
+Sentencia SQL empleada para obtener los datos necesarios para el analisis:
 ~~~
 		SELECT c.name champions
 		FROM Champion c LEFT JOIN Play p ON (c.name = p.name_Champion)
 		WHERE p.pick_rate is NULL
 ~~~
-	
+->conclusion para las gráficas 
+De los 159 campeones con los que cuenta el LoL, para la fecha de actualizacion de las bases de datos utilizadas, son estos 11 los que no se han presenciado en el escenario competitivo nunca, y esto, más allá de ser altamente revelador, da pie a la realización de analisis más exhaustivos que permitan determinar si existe una relación clara o patrón en estos campeones por el cual no se utilizan en competencia.	
 	
 ---
 ## Conclusiones 
