@@ -48,7 +48,7 @@ Se han seleccionado 3 sets de datos donde se dan a conocer estadísticas de los 
 [^3]: LoL Worlds Champion Pick and Ban Rate: https://www.kaggle.com/datasets/vincentbarletta/league-of-legends-worlds-champion-pb-dataset?select=Worlds+2021+Main+Event+-+Champion+Stats+-+OraclesElixir.csv
 
 
- #### **¿Cuáles son los campeones que se han mantenido constantes en el escenario competitivo a pesar del estado del metagame?** 
+ #### **¿Cuál es el campeón que se ha mantenido constante en el escenario competitivo a pesar del estado del metagame?** 
  
  ---
  ## Reglas de negocio
