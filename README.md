@@ -262,7 +262,8 @@ LLegados a este punto, es posible proporcionar una serie de conclusiones general
 A partir de estas tres inferencias es posible dar una respuesta parcial a la pregunta inicial que se planteó, sobre todo tomando como referencia el KD y las Kills y Deaths de cada campeón. Con esto dicho, es fácil notar que Lee Sin ha sido siempre un campeon con una alta participación en los juegos de los worlds, pues en los gráficos se evidencia como un valor atipico mucho más alto que el promedio observable. Es decir, a pesar del estado del metagame, siempre se ha considerado como un campeón util para el escenario competitivo.
 
 ### Base de datos
-- La carga de datos de manera masiva es bastante eficiente. Sin embargo se presentaron complicaciones al momento de establecer la ruta y los permisos de administrador.  - Se presentaron errores al momento de crear y llamar las tablas causados por la forma como PGmodeler exporta el archivo DDL.
+- La carga de datos de manera masiva es bastante eficiente. Sin embargo se presentaron complicaciones al momento de establecer la ruta y los permisos de administrador.
+- Se presentaron errores al momento de crear y llamar las tablas causados por la forma como PGmodeler exporta el archivo DDL.
 - El proceso de normalizar la base de datos se dio de manera sencilla. Esto se debe a que desde el inicio existían pocas tablas y las relaciones establecidas evitaban transitividad entre tablas. La normalización permitió realizar las consultas de manera más eficaz y mantener un orden en la base de datos.
 
 
