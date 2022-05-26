@@ -54,7 +54,7 @@ Se han seleccionado 3 sets de datos donde se dan a conocer estadísticas de los 
  ## Reglas de negocio
 1.	El juego tiene varios campeones.
 2.	Cada campeón tiene un nombre único.
-3.	Cada campeón posee un nombre, ID, clase, playstyle y un título dentro del juego.
+3.	Cada campeón posee un nombre, clase, playstyle y un título dentro del juego.
 4.	Los campeones tienen roles.
 5.	El juego registra el PR%, BR%, WR%, KD de los campeones con base en el rol y en un año durante el Worlds.
 6.	Un campeón puede jugarse en varios roles.
