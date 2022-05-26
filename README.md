@@ -268,6 +268,9 @@ A partir de estas tres inferencias es posible dar una respuesta parcial a la pre
 
 
 ### Uso de DASH y Python
+- Crear la conexión entre python y postgres fue un proceso sencillo gracias a las expliciones en clase. De igual forma, la implementación del dash fue sencilla y no presento ningún problema.
+- Los distintos tipos de graficos que la libreria plotly posee permitieron hacer el analisis de datos sencillo debido a que muchos de estos graficos modelaban de forma representativa las variables que analisamos.
+
 
 ### Conjuntos de Datos
 - Ya que se escogieron varias fuentes de datos, podemos concluir que tuvimos sets de estos bastante diversos y enriquecidos de información a trabajar. Los datos estaban, en su mayoría, correctos, no nulos y concretos. Esto nos permitió trabajar eficientemente y realizar modificaciones mínimas, además de que nos permitió crear archivos CSV competentes para la carga de datos.
