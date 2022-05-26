@@ -263,6 +263,7 @@ A partir de estas tres inferencias es posible dar una respuesta parcial a la pre
 
 ### Base de datos
 - La carga de datos de manera masiva es bastante eficiente. Sin embargo se presentaron complicaciones al momento de establecer la ruta y los permisos de administrador.  - Se presentaron errores al momento de crear y llamar las tablas causados por la forma como PGmodeler exporta el archivo DDL.
+- El proceso de normalizar la base de datos se dio de manera sencilla. Esto se debe a que desde el inicio existían pocas tablas y las relaciones establecidas evitaban transitividad entre tablas. La normalización permitió realizar las consultas de manera más eficaz y mantener un orden en la base de datos.
 
 
 ### Uso de DASH y Python
