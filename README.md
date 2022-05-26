@@ -270,6 +270,7 @@ A partir de estas tres inferencias es posible dar una respuesta parcial a la pre
 ### Uso de DASH y Python
 
 ### Conjuntos de Datos
+- Los conjuntos de datos utilizados fueron tubieron que ser modificados con el fin de crear una uniformidad entre la variable "name" en la tabla "Champion" y la variable "name_Champion" en la tabla "Abily".
 ---
 ## Autores
 
