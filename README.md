@@ -270,7 +270,8 @@ A partir de estas tres inferencias es posible dar una respuesta parcial a la pre
 ### Uso de DASH y Python
 
 ### Conjuntos de Datos
-- Los conjuntos de datos utilizados fueron tubieron que ser modificados con el fin de crear una uniformidad entre la variable "name" en la tabla "Champion" y la variable "name_Champion" en la tabla "Abily".
+- Ya que se escogieron varias fuentes de datos, podemos concluir que tuvimos sets de estos bastante diversos y enriquecidos de información a trabajar. Los datos estaban, en su mayoría, correctos, no nulos y concretos. Esto nos permitió trabajar eficientemente y realizar modificaciones mínimas, además de que nos permitió crear archivos CSV competentes para la carga de datos.
+- Algunos de los sets de datos utilizados tuvieron que ser modificados con el fin de crear una uniformidad entre la variable "name" en la tabla "Champion" y la variable "name_Champion" en la tabla "Ability".
 ---
 ## Autores
 
