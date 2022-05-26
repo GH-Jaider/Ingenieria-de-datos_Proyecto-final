@@ -40,7 +40,7 @@
 
 League of Legends, también conocido como LoL, es un juego de estrategia en el que dos equipos de cinco jugadores se enfrentan para ver quién destruye antes la base del otro. Mundialmente conocido como el e-sport más importante.
 
-Se han seleccionado 4 sets de datos donde se dan a conocer estadísticas de los campeones de LoL[^1] , sus habilidades[^2] y las estadísticas de estos[^3] presentadas en la copa mundial del e-sport, llamada Worlds. Basándonos en la recopilación y selección de ciertas columnas específicas de estos sets de datos, hemos identificado el siguiente problema a trabajar:
+Se han seleccionado 3 sets de datos donde se dan a conocer estadísticas de los campeones de LoL[^1] , sus habilidades[^2] y las estadísticas de estos[^3] presentadas en la copa mundial del e-sport, llamada Worlds. Basándonos en la recopilación y selección de ciertas columnas específicas de estos sets de datos, hemos identificado el siguiente problema a trabajar:
 
 
 [^1]: League of Legends - Champions & Items' Stats: https://www.kaggle.com/datasets/barthetur/league-of-legends-champions-items-stats 
